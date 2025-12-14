@@ -1,0 +1,141 @@
+﻿<Window x:Class="LangJsonEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		xmlns:local="clr-namespace:LangJsonEditor"
+        Title="Lang JSON Editor"
+        Width="1200"
+        Height="800"
+		AllowDrop="True"
+        DragOver="OnWindowDragOver"
+        Drop="OnWindowDrop"
+		Icon="icon.ico">
+
+	<Window.Resources>
+		<!-- Core colours -->
+		<SolidColorBrush x:Key="BgBrush" Color="#1E1E1E"/>
+		<SolidColorBrush x:Key="PanelBrush" Color="#252526"/>
+		<SolidColorBrush x:Key="GridBrush" Color="#2D2D30"/>
+		<SolidColorBrush x:Key="TextBrush" Color="#D4D4D4"/>
+		<SolidColorBrush x:Key="HeaderBrush" Color="#333333"/>
+		<SolidColorBrush x:Key="BorderBrush" Color="#3C3C3C"/>
+		<local:EmptyStringToBrushConverter x:Key="EmptyCellBrush"/>
+	</Window.Resources>
+	
+
+	<DockPanel>
+
+		<Menu DockPanel.Dock="Top">
+
+			<MenuItem Header="_File">
+				<MenuItem Header="_Open..."
+					  Click="OnOpenFile"/>
+				<MenuItem Header="_Save"
+					  Click="OnSaveFile"/>
+				<MenuItem Header="Save _As..."
+					  Click="OnSaveAsFile"/>
+				<Separator/>
+				<MenuItem Header="Add Language..."
+					  Click="OnAddLanguage"/>
+			</MenuItem>
+		</Menu>
+
+		<DockPanel DockPanel.Dock="Top"
+           LastChildFill="False"
+           Margin="6">
+
+			<TextBlock Text="Search:"
+               VerticalAlignment="Center"
+               Margin="0,0,6,0"/>
+
+			<TextBox x:Name="SearchBox"
+             Width="260"
+             VerticalAlignment="Center"
+             KeyDown="OnSearchKeyDown"/>
+		</DockPanel>
+
+		<!-- Status bar -->
+		<StatusBar DockPanel.Dock="Bottom">
+			<StatusBarItem>
+				<TextBlock x:Name="StatusText"/>
+			</StatusBarItem>
+		</StatusBar>
+
+
+		<DockPanel DockPanel.Dock="Bottom" Height="200">
+			<Button DockPanel.Dock="Right"
+                Width="120"
+                Margin="5"
+                Content="Merge Paste"
+                Click="OnMergePaste"/>
+
+			<TextBox x:Name="PasteBox"
+                 AcceptsReturn="True"
+                 VerticalScrollBarVisibility="Auto"
+                 HorizontalScrollBarVisibility="Auto"
+                 TextWrapping="NoWrap"
+                 Margin="5"/>
+		</DockPanel>
+
+		<DataGrid x:Name="LangGrid"
+          ItemsSource="{Binding Entries}"
+          AutoGenerateColumns="False"
+          CanUserAddRows="False"
+          IsReadOnly="False"
+          SelectionMode="Extended"
+          SelectionUnit="FullRow"
+          Background="{StaticResource GridBrush}"
+          Foreground="{StaticResource TextBrush}"
+          BorderBrush="{StaticResource BorderBrush}"
+          GridLinesVisibility="All"
+          HorizontalGridLinesBrush="#3C3C3C"
+          VerticalGridLinesBrush="#3C3C3C"
+         >
+
+			<!-- Ctrl+C handling -->
+			<DataGrid.InputBindings>
+				<KeyBinding Key="C"
+                    Modifiers="Control"
+                    Command="{x:Static ApplicationCommands.Copy}" />
+			</DataGrid.InputBindings>
+
+			<DataGrid.CommandBindings>
+				<CommandBinding Command="{x:Static ApplicationCommands.Copy}"
+                        Executed="OnCopyCommand"
+                        CanExecute="OnCopyCanExecute"/>
+			</DataGrid.CommandBindings>
+
+			<!-- Column headers -->
+			<DataGrid.ColumnHeaderStyle>
+				<Style TargetType="DataGridColumnHeader">
+					<Setter Property="Background" Value="{StaticResource HeaderBrush}"/>
+					<Setter Property="Foreground" Value="{StaticResource TextBrush}"/>
+					<Setter Property="BorderBrush" Value="#3C3C3C"/>
+				</Style>
+			</DataGrid.ColumnHeaderStyle>
+
+			<!-- Rows -->
+			<DataGrid.RowStyle>
+				<Style TargetType="DataGridRow">
+					<Setter Property="Background" Value="{StaticResource GridBrush}"/>
+					<Setter Property="Foreground" Value="{StaticResource TextBrush}"/>
+					<Setter Property="BorderBrush" Value="#3C3C3C"/>
+
+					<Style.Triggers>
+						<Trigger Property="IsSelected" Value="True">
+							<Setter Property="Background" Value="#094771"/>
+						</Trigger>
+					</Style.Triggers>
+				</Style>
+			</DataGrid.RowStyle>
+
+		</DataGrid>
+
+
+
+
+
+	</DockPanel>
+
+
+
+</Window>

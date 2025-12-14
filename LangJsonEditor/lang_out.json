@@ -1,0 +1,3950 @@
+﻿{
+  "ui.default": {
+    "en": "default",
+    "fr": "default",
+    "de": "default",
+    "es": "default",
+    "ja": "default"
+  },
+  "languages.name.en": {
+    "en": "English",
+    "fr": "Français",
+    "de": "Deutsch",
+    "es": "Español",
+    "ja": "日本語"
+  },
+  "languages.name.fr": {
+    "en": "English",
+    "fr": "Français",
+    "de": "Deutsch",
+    "es": "Español",
+    "ja": "日本語"
+  },
+  "languages.name.de": {
+    "en": "English",
+    "fr": "Français",
+    "de": "Deutsch",
+    "es": "Español",
+    "ja": "日本語"
+  },
+  "languages.name.ja": {
+    "en": "English",
+    "fr": "Français",
+    "de": "Deutsch",
+    "es": "Español",
+    "ja": "日本語"
+  },
+  "languages.name.es": {
+    "en": "English",
+    "fr": "Français",
+    "de": "Deutsch",
+    "es": "Español",
+    "ja": "日本語"
+  },
+  "ui.dropdown.defaultLabel": {
+    "en": "Select...",
+    "fr": "Sélectionner...",
+    "de": "Auswählen...",
+    "es": "Seleccionar...",
+    "ja": "選択してください..."
+  },
+  "tooltip.default": {
+    "en": "tooltip",
+    "fr": "tooltip",
+    "de": "tooltip",
+    "es": "tooltip",
+    "ja": "tooltip"
+  },
+  "_shared.month_short.JAN": {
+    "en": "JAN",
+    "fr": "JANV",
+    "de": "JAN",
+    "es": "ENE",
+    "ja": "1月"
+  },
+  "_shared.month_short.FEB": {
+    "en": "FEB",
+    "fr": "FÉVR",
+    "de": "FEB",
+    "es": "FEB",
+    "ja": "2月"
+  },
+  "_shared.month_short.MAR": {
+    "en": "MAR",
+    "fr": "MARS",
+    "de": "MÄR",
+    "es": "MAR",
+    "ja": "3月"
+  },
+  "_shared.month_short.APR": {
+    "en": "APR",
+    "fr": "AVR",
+    "de": "APR",
+    "es": "ABR",
+    "ja": "4月"
+  },
+  "_shared.month_short.MAY": {
+    "en": "MAY",
+    "fr": "MAI",
+    "de": "MAI",
+    "es": "MAY",
+    "ja": "5月"
+  },
+  "_shared.month_short.JUN": {
+    "en": "JUN",
+    "fr": "JUIN",
+    "de": "JUN",
+    "es": "JUN",
+    "ja": "6月"
+  },
+  "_shared.month_short.JUL": {
+    "en": "JUL",
+    "fr": "JUIL",
+    "de": "JUL",
+    "es": "JUL",
+    "ja": "7月"
+  },
+  "_shared.month_short.AUG": {
+    "en": "AUG",
+    "fr": "AOÛT",
+    "de": "AUG",
+    "es": "AGO",
+    "ja": "8月"
+  },
+  "_shared.month_short.SEP": {
+    "en": "SEP",
+    "fr": "SEPT",
+    "de": "SEP",
+    "es": "SEP",
+    "ja": "9月"
+  },
+  "_shared.month_short.OCT": {
+    "en": "OCT",
+    "fr": "OCT",
+    "de": "OKT",
+    "es": "OCT",
+    "ja": "10月"
+  },
+  "_shared.month_short.NOV": {
+    "en": "NOV",
+    "fr": "NOV",
+    "de": "NOV",
+    "es": "NOV",
+    "ja": "11月"
+  },
+  "_shared.month_short.DEC": {
+    "en": "DEC",
+    "fr": "DÉC",
+    "de": "DEZ",
+    "es": "DIC",
+    "ja": "12月"
+  },
+  "_shared.month_full.JAN": {
+    "en": "JANUARY",
+    "fr": "JANVIER",
+    "de": "JANUAR",
+    "es": "ENERO",
+    "ja": "1月"
+  },
+  "_shared.month_full.FEB": {
+    "en": "FEBRUARY",
+    "fr": "FÉVRIER",
+    "de": "FEBRUAR",
+    "es": "FEBRERO",
+    "ja": "2月"
+  },
+  "_shared.month_full.MAR": {
+    "en": "MARCH",
+    "fr": "MARS",
+    "de": "MÄRZ",
+    "es": "MARZO",
+    "ja": "3月"
+  },
+  "_shared.month_full.APR": {
+    "en": "APRIL",
+    "fr": "AVRIL",
+    "de": "APRIL",
+    "es": "ABRIL",
+    "ja": "4月"
+  },
+  "_shared.month_full.MAY": {
+    "en": "MAY",
+    "fr": "MAI",
+    "de": "MAI",
+    "es": "MAYO",
+    "ja": "5月"
+  },
+  "_shared.month_full.JUN": {
+    "en": "JUNE",
+    "fr": "JUIN",
+    "de": "JUNI",
+    "es": "JUNIO",
+    "ja": "6月"
+  },
+  "_shared.month_full.JUL": {
+    "en": "JULY",
+    "fr": "JUILLET",
+    "de": "JULI",
+    "es": "JULIO",
+    "ja": "7月"
+  },
+  "_shared.month_full.AUG": {
+    "en": "AUGUST",
+    "fr": "AOÛT",
+    "de": "AUGUST",
+    "es": "AGOSTO",
+    "ja": "8月"
+  },
+  "_shared.month_full.SEP": {
+    "en": "SEPTEMBER",
+    "fr": "SEPTEMBRE",
+    "de": "SEPTEMBER",
+    "es": "SEPTIEMBRE",
+    "ja": "9月"
+  },
+  "_shared.month_full.OCT": {
+    "en": "OCTOBER",
+    "fr": "OCTOBRE",
+    "de": "OKTOBER",
+    "es": "OCTUBRE",
+    "ja": "10月"
+  },
+  "_shared.month_full.NOV": {
+    "en": "NOVEMBER",
+    "fr": "NOVEMBRE",
+    "de": "NOVEMBER",
+    "es": "NOVIEMBRE",
+    "ja": "11月"
+  },
+  "_shared.month_full.DEC": {
+    "en": "DECEMBER",
+    "fr": "DÉCEMBRE",
+    "de": "DEZEMBER",
+    "es": "DICIEMBRE",
+    "ja": "12月"
+  },
+  "common.btn.close": {
+    "en": "Close",
+    "fr": "Fermer",
+    "de": "Schließen",
+    "es": "Cerrar",
+    "ja": "閉じる"
+  },
+  "_common.btn.cancel": {
+    "en": "Cancel",
+    "fr": "Annuler",
+    "de": "Abbrechen",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "_common.btn.continue": {
+    "en": "Continue",
+    "fr": "Continuer",
+    "de": "Weiter",
+    "es": "Continuar",
+    "ja": "続行"
+  },
+  "_common.btn.ok": {
+    "en": "OK",
+    "fr": "OK",
+    "de": "OK",
+    "es": "OK",
+    "ja": "OK"
+  },
+  "_common.btn.back": {
+    "en": "Back",
+    "fr": "Retour",
+    "de": "Zurück",
+    "es": "Atrás",
+    "ja": "戻る"
+  },
+  "_common.btn.next": {
+    "en": "Next",
+    "fr": "Suivant",
+    "de": "Weiter",
+    "es": "Siguiente",
+    "ja": "次へ"
+  },
+  "msgbox.yes": {
+    "en": "Yes",
+    "fr": "Oui",
+    "de": "Ja",
+    "es": "Sí",
+    "ja": "はい"
+  },
+  "msgbox.no": {
+    "en": "No",
+    "fr": "Non",
+    "de": "Nein",
+    "es": "No",
+    "ja": "いいえ"
+  },
+  "msgbox.ok": {
+    "en": "OK",
+    "fr": "OK",
+    "de": "OK",
+    "es": "OK",
+    "ja": "OK"
+  },
+  "msgbox.retry": {
+    "en": "Retry",
+    "fr": "Réessayer",
+    "de": "Wiederholen",
+    "es": "Reintentar",
+    "ja": "再試行"
+  },
+  "msgbox.accept": {
+    "en": "Accept",
+    "fr": "Accepter",
+    "de": "Akzeptieren",
+    "es": "Aceptar",
+    "ja": "承諾する"
+  },
+  "msgbox.cancel": {
+    "en": "Cancel",
+    "fr": "Annuler",
+    "de": "Abbrechen",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "CStoreSortOptions.default": {
+    "en": "Sort by: Default",
+    "de": "Standard",
+    "fr": "Par défaut",
+    "es": "Predeterminado",
+    "ja": "デフォルト"
+  },
+  "CStoreSortOptions.low_to_high": {
+    "en": "Sort by: Lowest Price First",
+    "de": "Preis: Niedrig zuerst",
+    "fr": "Prix : Du moins cher",
+    "es": "Precio: Menor primero",
+    "ja": "価格が安い順"
+  },
+  "CStoreSortOptions.high_to_low": {
+    "en": "Sort by: Highest Price First",
+    "de": "Preis: Hoch zuerst",
+    "fr": "Prix : Du plus élevé",
+    "es": "Precio: Mayor primero",
+    "ja": "価格が高い順"
+  },
+  "CStoreSortOptions.by_name": {
+    "en": "Sort by: Name A-Z",
+    "de": "Name A-Z",
+    "fr": "Nom A-Z",
+    "es": "Nombre A-Z",
+    "ja": "名前 A-Z"
+  },
+  "CStoreSortOptions.newest_first": {
+    "en": "Sort by: Newest First",
+    "de": "Neueste zuerst",
+    "fr": "Plus récent",
+    "es": "Más reciente",
+    "ja": "新しい順"
+  },
+  "CStoreSortOptions.oldest_first": {
+    "en": "Sort by: Oldest First",
+    "de": "Älteste zuerst",
+    "fr": "Plus ancien",
+    "es": "Más antiguo",
+    "ja": "古い順"
+  },
+  "CStoreSortOptions.starred_first": {
+    "en": "Sort by: Favorites First",
+    "de": "Favoriten zuerst",
+    "fr": "Favoris en premier",
+    "es": "Favoritos primero",
+    "ja": "お気に入り順"
+  },
+  "CStoreSortOptions.recommended": {
+    "en": "Sort by: Recommended",
+    "de": "Empfohlen",
+    "fr": "Recommandé",
+    "es": "Recomendado",
+    "ja": "おすすめ"
+  },
+  "CCategoryOptions.animals": {
+    "en": "Animals",
+    "de": "Tiere",
+    "fr": "Animaux",
+    "es": "Animales",
+    "ja": "動物"
+  },
+  "CCategoryOptions.architecture": {
+    "en": "Architecture",
+    "de": "Architektur",
+    "fr": "Architecture",
+    "es": "Arquitectura",
+    "ja": "建築"
+  },
+  "CCategoryOptions.art": {
+    "en": "Art",
+    "de": "Kunst",
+    "fr": "Art",
+    "es": "Arte",
+    "ja": "アート"
+  },
+  "CCategoryOptions.christmas": {
+    "en": "Christmas",
+    "de": "Weihnachten",
+    "fr": "Noël",
+    "es": "Navidad",
+    "ja": "クリスマス"
+  },
+  "CCategoryOptions.easter": {
+    "en": "Easter",
+    "de": "Ostern",
+    "fr": "Pâques",
+    "es": "Pascua",
+    "ja": "イースター"
+  },
+  "CCategoryOptions.fantasy": {
+    "en": "Fantasy",
+    "de": "Fantasie",
+    "fr": "Fantaisie",
+    "es": "Fantasía",
+    "ja": "ファンタジー"
+  },
+  "CCategoryOptions.floral": {
+    "en": "Floral",
+    "de": "Blumen",
+    "fr": "Floral",
+    "es": "Floral",
+    "ja": "花柄"
+  },
+  "CCategoryOptions.halloween": {
+    "en": "Halloween",
+    "de": "Halloween",
+    "fr": "Halloween",
+    "es": "Halloween",
+    "ja": "ハロウィン"
+  },
+  "CCategoryOptions.holidays": {
+    "en": "Holidays",
+    "de": "Feiertage",
+    "fr": "Fêtes",
+    "es": "Festividades",
+    "ja": "祝日"
+  },
+  "CCategoryOptions.kids": {
+    "en": "Kids",
+    "de": "Kinder",
+    "fr": "Enfants",
+    "es": "Niños",
+    "ja": "キッズ"
+  },
+  "CCategoryOptions.landscapes": {
+    "en": "Landscapes",
+    "de": "Landschaften",
+    "fr": "Paysages",
+    "es": "Paisajes",
+    "ja": "風景"
+  },
+  "CCategoryOptions.miscellaneous": {
+    "en": "Miscellaneous",
+    "de": "Verschiedenes",
+    "fr": "Divers",
+    "es": "Misceláneo",
+    "ja": "その他"
+  },
+  "CCategoryOptions.mystery": {
+    "en": "Mystery",
+    "de": "Mystery",
+    "fr": "Mystère",
+    "es": "Misterio",
+    "ja": "ミステリー"
+  },
+  "CCategoryOptions.patterns": {
+    "en": "Patterns",
+    "de": "Muster",
+    "fr": "Motifs",
+    "es": "Patrones",
+    "ja": "パターン"
+  },
+  "CCategoryOptions.seasons": {
+    "en": "Seasons",
+    "de": "Jahreszeiten",
+    "fr": "Saisons",
+    "es": "Estaciones",
+    "ja": "季節"
+  },
+  "CCategoryOptions.stained_glass": {
+    "en": "Stained Glass",
+    "de": "Glasmalerei",
+    "fr": "Vitraux",
+    "es": "Vidrieras",
+    "ja": "ステンドグラス"
+  },
+  "CCategoryOptions.supersized": {
+    "en": "Supersized",
+    "de": "Übergröße",
+    "fr": "Grande taille",
+    "es": "Sobredimensionado",
+    "ja": "特大サイズ"
+  },
+  "CCategoryOptions.variety": {
+    "en": "Variety",
+    "de": "Vielfalt",
+    "fr": "Variété",
+    "es": "Variedad",
+    "ja": "バラエティ"
+  },
+  "CCategoryOptions.world": {
+    "en": "World",
+    "de": "Welt",
+    "fr": "Monde",
+    "es": "Mundo",
+    "ja": "世界"
+  },
+  "CCategoryOptions.foodAndDrink": {
+    "en": "Food and Drink",
+    "de": "Essen und Trinken",
+    "fr": "Nourriture et boissons",
+    "es": "Comida y bebida",
+    "ja": "食べ物と飲み物"
+  },
+  "CCategoryOptions.nature": {
+    "en": "Nature",
+    "de": "Natur",
+    "fr": "Nature",
+    "es": "Naturaleza",
+    "ja": "自然"
+  },
+  "CCategoryOptions.show_all": {
+    "en": "Show All",
+    "de": "Alle anzeigen",
+    "fr": "Tout afficher",
+    "es": "Mostrar todo",
+    "ja": "すべて表示"
+  },
+  "CCategoryOptions.hidden": {
+    "en": "Hidden",
+    "de": "Versteckt",
+    "fr": "Masqué",
+    "es": "Oculto",
+    "ja": "非表示"
+  },
+  "CCategoryOptions.favourites": {
+    "en": "Favorites",
+    "de": "Favoriten",
+    "fr": "Favoris",
+    "es": "Favoritos",
+    "ja": "お気に入り"
+  },
+  "CCategoryOptions.sale": {
+    "en": "SALE",
+    "de": "Angebote",
+    "fr": "Promotions",
+    "es": "Ofertas",
+    "ja": "セール"
+  },
+  "CAlbumListItem.in_progress": {
+    "en": "~ In progress",
+    "fr": "~ En cours",
+    "de": "~ In Arbeit",
+    "es": "~ En progreso",
+    "ja": "~ 作業中"
+  },
+  "CAlbumListItem.view_all": {
+    "en": "~ View all",
+    "fr": "~ Tout afficher",
+    "de": "~ Alle anzeigen",
+    "es": "~ Ver todo",
+    "ja": "~ すべて表示"
+  },
+  "CAlbumListItem.made_by_me": {
+    "en": "~ Made by me",
+    "fr": "~ Créé par moi",
+    "de": "~ Von mir erstellt",
+    "es": "~ Hecho por mí",
+    "ja": "~ 自分で作成"
+  },
+  "CAlbumListItem.from_friends": {
+    "en": "~ From friends",
+    "fr": "~ De vos amis",
+    "de": "~ Von Freunden",
+    "es": "~ De amigos",
+    "ja": "~ 友達から"
+  },
+  "sort_pat.small_to_large": {
+    "en": "Sort by: Smallest First",
+    "fr": "Du plus petit au plus grand",
+    "de": "Klein zuerst",
+    "es": "De menor a mayor",
+    "ja": "小さい順"
+  },
+  "sort_pat.large_to_small": {
+    "en": "Sort by: Largest First",
+    "fr": "Du plus grand au plus petit",
+    "de": "Groß zuerst",
+    "es": "De mayor a menor",
+    "ja": "大きい順"
+  },
+  "sort_pat.by_date": {
+    "en": "Sort by: Newest First",
+    "fr": "Plus récent en premier",
+    "de": "Neueste zuerst",
+    "es": "Más reciente primero",
+    "ja": "新しい順"
+  },
+  "sort_pat.old_first": {
+    "en": "Sort by: Oldest First",
+    "fr": "Plus ancien en premier",
+    "de": "Älteste zuerst",
+    "es": "Más antiguo primero",
+    "ja": "古い順"
+  },
+  "_dlgs._shared._btns.CViewSetBtn_mc": {
+    "en": "View",
+    "fr": "Voir",
+    "de": "Ansehen",
+    "es": "Ver",
+    "ja": "表示"
+  },
+  "_loading_screen.loading_text_anim": {
+    "en": "Loading",
+    "fr": "Chargement",
+    "de": "Wird geladen",
+    "es": "Cargando",
+    "ja": "読み込み中"
+  },
+  "_archives.archivesGui_mc.back_to_game": {
+    "en": "Back to Game",
+    "fr": "Retour au jeu",
+    "de": "Zurück zum Spiel",
+    "es": "Volver al juego",
+    "ja": "ゲームに戻る"
+  },
+  "_archives.archivesGui_mc.room_label": {
+    "en": "Room {value}",
+    "fr": "Salle {value}",
+    "de": "Raum {value}",
+    "es": "Sala {value}",
+    "ja": "ルーム {value}"
+  },
+  "_dlgs.CAdvertComingBar_mc.ad_starting_in": {
+    "en": "Advert starting in {seconds:5} seconds...",
+    "fr": "Publicité dans {seconds:5} secondes...",
+    "de": "Werbung beginnt in {seconds:5} Sekunden...",
+    "es": "Anuncio en {seconds:5} segundos...",
+    "ja": "{seconds:5}秒後に広告が始まります..."
+  },
+  "_dlgs.CAdvertComingBar_mc.disable_ads": {
+    "en": "Disable ads",
+    "fr": "Désactiver les pubs",
+    "de": "Werbung deaktivieren",
+    "es": "Desactivar anuncios",
+    "ja": "広告を無効にする"
+  },
+  "CAdvertComingBar.disable_ads.title": {
+    "en": "Don't want to see these ads?",
+    "fr": "Vous ne voulez plus voir ces pubs ?",
+    "de": "Möchten Sie diese Werbung nicht mehr sehen?",
+    "es": "No quieres ver estos anuncios?",
+    "ja": "これらの広告を見たくありませんか?"
+  },
+  "CAdvertComingBar.disable_ads.body": {
+    "en": "Simply purchase some Cash to remove these video ads. Would you like to view our cash purchase options?",
+    "fr": "Il suffit d'acheter un peu de Cash pour supprimer ces publicités vidéo. Voulez-vous voir nos options d'achat de Cash ?",
+    "de": "Kaufen Sie einfach etwas Cash, um diese Videoanzeigen zu entfernen. Möchten Sie unsere Cash-Kaufoptionen ansehen?",
+    "es": "Simplemente compra algo de Cash para eliminar estos anuncios de video. ¿Quieres ver nuestras opciones de compra de Cash?",
+    "ja": "動画広告を削除するには、Cash を購入するだけです。Cash の購入オプションを表示しますか？"
+  },
+  "_dlgs.CBuyCashDlg_mc.title": {
+    "en": "Buy Cross-Stitch Cash",
+    "fr": "Acheter du Cash Cross-Stitch",
+    "de": "Cross-Stitch-Cash kaufen",
+    "es": "Comprar Cash de Cross-Stitch",
+    "ja": "クロスステッチのキャッシュを購入"
+  },
+  "_dlgs.CBuyCashDlg_mc.amount_label": {
+    "en": "{amount:40,000} Cash",
+    "fr": "{amount:40,000} Cash",
+    "de": "{amount:40,000} Cash",
+    "es": "{amount:40,000} Cash",
+    "ja": "{amount:40,000} キャッシュ"
+  },
+  "_dlgs.CBuyCashDlg_mc.buy_for": {
+    "en": "Buy for {amount:$40.00}",
+    "fr": "Acheter pour {amount:€39.99}",
+    "de": "Kaufen für {amount:€39.99}",
+    "es": "Comprar por {amount:€39.99}",
+    "ja": "{amount:$400} で購入"
+  },
+  "_dlgs.CBuyCashDlg_mc.extra_percent": {
+    "en": "{amount:40}% Extra!",
+    "fr": "{amount:40}% en plus !",
+    "de": "{amount:40}% extra!",
+    "es": "¡{amount:40}% extra!",
+    "ja": "{amount:40}% 追加！"
+  },
+  "_dlgs.CBuyCashDlg_mc.popular": {
+    "en": "popular",
+    "fr": "populaire",
+    "de": "beliebt",
+    "es": "popular",
+    "ja": "人気"
+  },
+  "_dlgs.CBuyCashDlg_mc.bargain": {
+    "en": "bargain",
+    "fr": "bon plan",
+    "de": "Schnäppchen",
+    "es": "oferta",
+    "ja": "お得"
+  },
+  "_dlgs.CBuyCashDlg_mc.friend_button": {
+    "en": "Buy Cash for a Friend",
+    "fr": "Acheter du Cash pour un ami",
+    "de": "Cash für einen Freund kaufen",
+    "es": "Comprar Cash para un amigo",
+    "ja": "友達のためにキャッシュを購入"
+  },
+  "_dlgs.CBuyCashDlg_mc.buying_for": {
+    "en": "Buying Cash for:",
+    "fr": "Achat de Cash pour :",
+    "de": "Cash kaufen für:",
+    "es": "Comprando Cash para:",
+    "ja": "購入先:"
+  },
+  "_dlgs.CBuyCashDlg_mc.daily_bonus": {
+    "en": "DAILY BONUS",
+    "fr": "BONUS QUOTIDIEN",
+    "de": "TÄGLICHER BONUS",
+    "es": "BONO DIARIO",
+    "ja": "デイリーボーナス"
+  },
+  "_dlgs.CBuyCashDlg_mc.daily_boost": {
+    "en": "Buy any cash to boost your Daily Reward to {amount:40} cash for a year!",
+    "fr": "Achetez du Cash pour porter votre bonus quotidien à {amount:40} cash pendant un an !",
+    "de": "Kaufen Sie Cash, um Ihren täglichen Bonus ein Jahr lang auf {amount:40} Cash zu erhöhen!",
+    "es": "Compra Cash y sube tu bono diario a {amount:40} cash durante un año.",
+    "ja": "キャッシュ購入で1年間デイリーボーナスが {amount:40} キャッシュにアップ！"
+  },
+  "_dlgs.CBuyCashForFriendDlg_mc.title": {
+    "en": "Select a Friend to buy cash for",
+    "fr": "Sélectionnez un ami pour qui acheter du Cash",
+    "de": "Einen Freund zum Cash-Kauf wählen",
+    "es": "Selecciona un amigo para comprarle Cash",
+    "ja": "キャッシュを購入する友達を選択"
+  },
+  "_dlgs.CBuyCashForFriendDlg_mc.prompt": {
+    "en": "Which friend do you want to buy cash for?",
+    "fr": "Pour quel ami voulez-vous acheter du Cash ?",
+    "de": "Für welchen Freund möchten Sie Cash kaufen?",
+    "es": "¿A qué amigo quieres comprarle Cash?",
+    "ja": "どの友達にキャッシュを購入しますか？"
+  },
+  "_dlgs.CBuyCashForFriendDlg_mc.select": {
+    "en": "Select Friend",
+    "fr": "Sélectionner l'ami",
+    "de": "Freund auswählen",
+    "es": "Seleccionar amigo",
+    "ja": "友達を選択"
+  },
+  "_dlgs.CCompletedDlg_mc.title": {
+    "en": "Cross-Stitch Complete!",
+    "fr": "Point de croix terminé !",
+    "de": "Kreuzstich beendet!",
+    "es": "¡Punto de cruz completado!",
+    "ja": "クロスステッチ完了！"
+  },
+  "_dlgs.CCompletedDlg_mc.time": {
+    "en": "You finished this Cross-Stitch in {time}.",
+    "fr": "Vous avez terminé ce point de croix en {time}.",
+    "de": "Sie haben diesen Kreuzstich in {time} beendet.",
+    "es": "Terminaste este punto de cruz en {time}.",
+    "ja": "{time} でクロスステッチを完成しました。"
+  },
+  "_dlgs.CCompletedDlg_mc.xp_title": {
+    "en": "XP earned:",
+    "fr": "XP gagné :",
+    "de": "XP erhalten:",
+    "es": "XP obtenido:",
+    "ja": "獲得XP:"
+  },
+  "_dlgs.CCompletedDlg_mc.xp_gain": {
+    "en": "+{amount:45} xp",
+    "fr": "+{amount:45} xp",
+    "de": "+{amount:45} XP",
+    "es": "+{amount:45} xp",
+    "ja": "+{amount:45} XP"
+  },
+  "_dlgs.CCompletedDlg_mc.xp_to_next": {
+    "en": "{amount:999} xp to next level!",
+    "fr": "{amount:999} xp avant le prochain niveau !",
+    "de": "{amount:999} XP bis zum nächsten Level!",
+    "es": "¡{amount:999} xp para el próximo nivel!",
+    "ja": "次のレベルまであと {amount:999} XP!"
+  },
+  "_dlgs.CCompletedDlg_mc.cash_title": {
+    "en": "Cross-stitch Cash bonus:",
+    "fr": "Bonus de Cash Cross-Stitch :",
+    "de": "Cross-Stitch-Cash-Bonus:",
+    "es": "Bono de Cash de punto de cruz:",
+    "ja": "クロスステッチキャッシュボーナス："
+  },
+  "_dlgs.CCompletedDlg_mc.cash_gain": {
+    "en": "+{amount:50} cash",
+    "fr": "+{amount:50} cash",
+    "de": "+{amount:50} Cash",
+    "es": "+{amount:50} cash",
+    "ja": "+{amount:50} キャッシュ"
+  },
+  "_dlgs.CCompletedDlg_mc.cash_total": {
+    "en": "Total cash: {amount:999999}",
+    "fr": "Cash total : {amount:999999}",
+    "de": "Gesamt-Cash: {amount:999999}",
+    "es": "Cash total: {amount:999999}",
+    "ja": "合計キャッシュ：{amount:999999}"
+  },
+  "_dlgs.CCompletedDlg_mc.congrats": {
+    "en": "Congratulations!",
+    "fr": "Félicitations !",
+    "de": "Glückwunsch!",
+    "es": "¡Felicidades!",
+    "ja": "おめでとうございます！"
+  },
+  "_dlgs.rateUsPanel.title": {
+    "en": "Are you loving\nCross-Stitch World?",
+    "fr": "Vous aimez Cross-Stitch World ?",
+    "de": "Mögen Sie Cross-Stitch World?",
+    "es": "¿Te gusta Cross-Stitch World?",
+    "ja": "Cross-Stitch World は好きですか？"
+  },
+  "_dlgs.rateUsPanel.no": {
+    "en": "Not really",
+    "fr": "Pas trop",
+    "de": "Nicht ganz",
+    "es": "No mucho",
+    "ja": "あまり…"
+  },
+  "_dlgs.rateUsPanel.yes": {
+    "en": "Yes!",
+    "fr": "Oui !",
+    "de": "Ja!",
+    "es": "¡Sí!",
+    "ja": "はい！"
+  },
+  "_dlgs.rateUsPanel.request_rating": {
+    "en": "We'd really appreciate it if you would rate us in the App Store",
+    "fr": "Merci de nous noter sur l'App Store",
+    "de": "Wir würden uns sehr freuen, wenn Sie uns im App Store bewerten",
+    "es": "Por favor, valóranos en la App Store",
+    "ja": "App Storeで評価していただけるととても嬉しいです"
+  },
+  "_dlgs.rateUsPanel.ok_sure": {
+    "en": "Ok, Sure",
+    "fr": "D’accord",
+    "de": "OK",
+    "es": "Vale",
+    "ja": "OK"
+  },
+  "_dlgs.rateUsPanel.ask_feedback": {
+    "en": "Would you mind giving us some feedback?",
+    "fr": "Pourriez-vous nous donner votre avis ?",
+    "de": "Könnten Sie uns etwas Feedback geben?",
+    "es": "¿Te importaría darnos tu opinión?",
+    "ja": "ご意見をいただけますか？"
+  },
+  "_dlgs.CCompletedOfflineDlg_mc.title": {
+    "en": "You completed a Cross-Stitch...",
+    "fr": "Vous avez terminé un point de croix...",
+    "de": "Sie haben einen Kreuzstich beendet...",
+    "es": "Completaste un punto de cruz...",
+    "ja": "クロスステッチを完成しました…"
+  },
+  "_dlgs.CCompletedOfflineDlg_mc.message": {
+    "en": "You completed this pattern while you were offline – time to claim your rewards!",
+    "fr": "Vous avez terminé ce modèle hors ligne — il est temps de récupérer vos récompenses !",
+    "de": "Sie haben dieses Muster offline beendet – jetzt können Sie Ihre Belohnungen abholen!",
+    "es": "Completaste este patrón mientras estabas sin conexión — ¡es hora de reclamar tus recompensas!",
+    "ja": "オフライン中にこのパターンを完成しました。報酬を受け取りましょう！"
+  },
+  "_dlgs.CCompletedOfflineDlg_mc.claim": {
+    "en": "Claim Reward!",
+    "fr": "Obtenir la récompense !",
+    "de": "Belohnung abholen!",
+    "es": "¡Reclamar recompensa!",
+    "ja": "報酬を受け取る！"
+  },
+  "_dlgs.COfflineCompleteDlg.title": {
+    "en": "Cross-Stitch Complete!",
+    "fr": "Point de croix terminé !",
+    "de": "Kreuzstich beendet!",
+    "es": "¡Punto de cruz completado!",
+    "ja": "クロスステッチ完了！"
+  },
+  "_dlgs.COfflineCompleteDlg.well_done": {
+    "en": "Well Done!",
+    "fr": "Bravo !",
+    "de": "Gut gemacht!",
+    "es": "¡Bien hecho!",
+    "ja": "よくできました！"
+  },
+  "_dlgs.COfflineCompleteDlg.message": {
+    "en": "As you are currently playing offline, you will receive the rewards for this Cross-Stitch next time you play online on this device.",
+    "fr": "Comme vous jouez hors ligne, vous recevrez les récompenses de ce point de croix la prochaine fois que vous jouerez en ligne sur cet appareil.",
+    "de": "Da Sie derzeit offline spielen, erhalten Sie die Belohnungen für diesen Kreuzstich, sobald Sie das nächste Mal online auf diesem Gerät spielen.",
+    "es": "Como estás jugando sin conexión, recibirás las recompensas de este punto de cruz la próxima vez que juegues en línea en este dispositivo.",
+    "ja": "現在オフラインでプレイしているため、このクロスステッチの報酬は、この端末で次にオンラインでプレイしたときに受け取れます。"
+  },
+  "_dlgs.COfflineCompleteDlg.go_online": {
+    "en": "Go Online",
+    "fr": "Aller en ligne",
+    "de": "Online gehen",
+    "es": "Conectarse",
+    "ja": "オンラインにする"
+  },
+  "_dlgs.CDailyCoins_mc.title": {
+    "en": "Daily cash reward!",
+    "fr": "Récompense quotidienne en cash !",
+    "de": "Tägliche Cash-Belohnung!",
+    "es": "¡Recompensa diaria de cash!",
+    "ja": "毎日のキャッシュ報酬！"
+  },
+  "_dlgs.CDailyCoins_mc.premium_title": {
+    "en": "Premium daily cash reward!",
+    "fr": "Récompense quotidienne premium !",
+    "de": "Premium-Cash-Belohnung!",
+    "es": "¡Recompensa diaria premium!",
+    "ja": "プレミアムの毎日キャッシュ報酬！"
+  },
+  "_dlgs.CDailyCoins_mc.message": {
+    "en": "Here's {amount:40} Free Cross-Stitch Cash - come back tomorrow for more!",
+    "fr": "Voici {amount:40} Cash Cross-Stitch gratuit — revenez demain pour en avoir plus !",
+    "de": "Hier sind {amount:40} kostenloses Cash – kommen Sie morgen für mehr zurück!",
+    "es": "Aquí tienes {amount:40} Cash gratis — ¡vuelve mañana por más!",
+    "ja": "無料のクロスステッチキャッシュを {amount:40} 受け取りました。明日もぜひ来てください！"
+  },
+  "_dlgs.CDailyCoins_mc.thanks": {
+    "en": "Thanks!",
+    "fr": "Merci !",
+    "de": "Danke!",
+    "es": "¡Gracias!",
+    "ja": "ありがとう！"
+  },
+  "_dlgs.CDailyCoins_mc.more_daily_info": {
+    "en": "Get {amount:50} cash a day instead just by buying cash in our store...",
+    "fr": "Obtenez {amount:50} cash par jour en achetant du Cash dans notre boutique...",
+    "de": "Erhalten Sie stattdessen {amount:50} Cash pro Tag, wenn Sie Cash kaufen...",
+    "es": "Obtén {amount:50} cash al día si compras cash en nuestra tienda...",
+    "ja": "ストアでキャッシュを購入すると、1日 {amount:50} キャッシュがもらえます…"
+  },
+  "_dlgs.CDailyCoins_mc.more_button": {
+    "en": "More...",
+    "fr": "Plus...",
+    "de": "Mehr...",
+    "es": "Más...",
+    "ja": "詳細…"
+  },
+  "_dlgs.CDailyCoins_mc.bonus_active": {
+    "en": "You're getting {amount:15} extra cash a day because you bought cash in our store!",
+    "fr": "Vous recevez {amount:15} cash supplémentaires par jour grâce à votre achat dans notre boutique !",
+    "de": "Sie erhalten täglich {amount:15} zusätzliches Cash, weil Sie Cash in unserem Shop gekauft haben!",
+    "es": "Recibes {amount:15} cash extra al día porque compraste cash en nuestra tienda.",
+    "ja": "ストアでキャッシュを購入したため、毎日 {amount:15} の追加キャッシュを受け取っています！"
+  },
+  "_dlgs.CDailyCoins_mc.bonus_expiring": {
+    "en": "Your Premium Daily Bonus will expire soon! Buy cash in the store to keep it...",
+    "fr": "Votre bonus quotidien premium expire bientôt ! Achetez du Cash pour le garder...",
+    "de": "Ihr Premiumbonus läuft bald ab! Kaufen Sie Cash, um ihn zu behalten...",
+    "es": "Tu bono diario premium expirará pronto. Compra cash para mantenerlo...",
+    "ja": "プレミアムボーナスがまもなく終了します。維持するにはキャッシュを購入してください…"
+  },
+  "_dlgs.CWatchAdDlg_mc.title": {
+    "en": "Want more Free Cash?",
+    "fr": "Vous voulez plus de cash gratuit ?",
+    "de": "Möchten Sie mehr kostenloses Cash?",
+    "es": "¿Quieres más cash gratis?",
+    "ja": "無料キャッシュをもっと欲しいですか？"
+  },
+  "_dlgs.CWatchAdDlg_mc.message": {
+    "en": "Would you like to earn {amount:15} more Cross-Stitch Cash by watching a short video Advert?",
+    "fr": "Voulez-vous gagner {amount:15} cash Cross-Stitch en regardant une courte publicité ?",
+    "de": "Möchten Sie {amount:15} Cross-Stitch-Cash durch das Ansehen einer kurzen Werbung verdienen?",
+    "es": "¿Te gustaría ganar {amount:15} cash Cross-Stitch viendo un breve anuncio?",
+    "ja": "短い動画広告を見ると、{amount:15} のクロスステッチキャッシュがもらえます。"
+  },
+  "_dlgs.CWatchAdDlg_mc.yes": {
+    "en": "Yes please!",
+    "fr": "Oui volontiers !",
+    "de": "Ja, bitte!",
+    "es": "¡Sí, por favor!",
+    "ja": "はい、お願いします！"
+  },
+  "_dlgs.CWatchAdDlg_mc.no": {
+    "en": "No thanks",
+    "fr": "Non merci",
+    "de": "Nein danke",
+    "es": "No gracias",
+    "ja": "結構です"
+  },
+  "_dlgs.CWatchAdDlg_mb.sorry_try": {
+    "en": "Sorry",
+    "fr": "Désolé",
+    "de": "Entschuldigung",
+    "es": "Lo sentimos",
+    "ja": "申し訳ありません"
+  },
+  "_dlgs.CWatchAdDlg_mb.sorry_try_msg": {
+    "en": "We were unable to load an ad for you to watch. Would you like to try again?",
+    "fr": "Impossible de charger une publicité. Voulez-vous réessayer ?",
+    "de": "Die Anzeige konnte nicht geladen werden. Möchten Sie es erneut versuchen?",
+    "es": "No pudimos cargar un anuncio. ¿Te gustaría intentarlo de nuevo?",
+    "ja": "広告を読み込めませんでした。もう一度試しますか？"
+  },
+  "_dlgs.CWatchAdDlg_mb.sorry_no_retry_msg": {
+    "en": "We were unable to load an ad for you to watch.",
+    "fr": "Impossible de charger une publicité.",
+    "de": "Die Anzeige konnte nicht geladen werden.",
+    "es": "No pudimos cargar un anuncio.",
+    "ja": "広告を読み込めませんでした。"
+  },
+  "_dlgs.CWatchAdDlg_mc.loading": {
+    "en": "Loading advert",
+    "fr": "Chargement de la pub",
+    "de": "Werbung wird geladen",
+    "es": "Cargando anuncio",
+    "ja": "広告を読み込み中"
+  },
+  "_dlgs.CWatchAdDlg_mc.fetching_reward": {
+    "en": "Fetching reward...",
+    "fr": "Récupération de la récompense...",
+    "de": "Belohnung wird abgerufen...",
+    "es": "Obteniendo recompensa...",
+    "ja": "報酬を取得中…"
+  },
+  "_dlgs.CWatchAdDlg_mb.unable_reward_title": {
+    "en": "Unable to deliver reward",
+    "fr": "Impossible de délivrer la récompense",
+    "de": "Belohnung konnte nicht vergeben werden",
+    "es": "No se pudo otorgar la recompensa",
+    "ja": "報酬を付与できません"
+  },
+  "_dlgs.CWatchAdDlg_mb.unable_reward_msg": {
+    "en": "Sorry, we were unable to reward you for watching this advert.",
+    "fr": "Désolé, nous n’avons pas pu vous récompenser pour cette publicité.",
+    "de": "Leider konnten wir Sie für das Ansehen dieser Werbung nicht belohnen.",
+    "es": "Lo sentimos, no pudimos recompensarte por ver este anuncio.",
+    "ja": "申し訳ありませんが、この広告視聴の報酬を付与できませんでした。"
+  },
+  "_dlgs.CWatchAdDlg_mb.reward_title": {
+    "en": "Cash rewarded!",
+    "fr": "Cash reçu !",
+    "de": "Cash erhalten!",
+    "es": "¡Cash recibido!",
+    "ja": "キャッシュを獲得！"
+  },
+  "_dlgs.CWatchAdDlg_mb.reward_msg": {
+    "en": "{amount} Cash has been added to your account!",
+    "fr": "{amount} cash ont été ajoutés à votre compte !",
+    "de": "{amount} Cash wurden Ihrem Konto gutgeschrieben!",
+    "es": "¡{amount} cash se ha añadido a tu cuenta!",
+    "ja": "{amount} キャッシュがあなたのアカウントに追加されました！"
+  },
+  "_dlgs.CPreEditorDlg_mc.title": {
+    "en": "Edit your image...",
+    "fr": "Modifiez votre image...",
+    "de": "Bild bearbeiten...",
+    "es": "Edita tu imagen...",
+    "ja": "画像を編集..."
+  },
+  "_dlgs.CPreEditorDlg_mc.crop_hint": {
+    "en": "Drag the corner dots to crop your image",
+    "fr": "Faites glisser les coins pour recadrer votre image",
+    "de": "Ziehen Sie die Eckpunkte, um Ihr Bild zuzuschneiden",
+    "es": "Arrastra las esquinas para recortar tu imagen",
+    "ja": "角の点をドラッグして画像をトリミングします"
+  },
+  "_dlgs.CPreEditorDlg_mc.rotate": {
+    "en": "Rotate",
+    "fr": "Pivoter",
+    "de": "Drehen",
+    "es": "Girar",
+    "ja": "回転"
+  },
+  "_dlgs.CPreEditorDlg_mc.mirror": {
+    "en": "Mirror",
+    "fr": "Miroir",
+    "de": "Spiegeln",
+    "es": "Espejo",
+    "ja": "左右反転"
+  },
+  "_dlgs.CPreEditorDlg_mc.flip": {
+    "en": "Flip",
+    "fr": "Retourner",
+    "de": "Umkehren",
+    "es": "Voltear",
+    "ja": "上下反転"
+  },
+  "_dlgs.CAdjustPatternDlg_mc.title": {
+    "en": "Adjust your pattern...",
+    "fr": "Ajustez votre motif...",
+    "de": "Muster anpassen...",
+    "es": "Ajusta tu diseño...",
+    "ja": "パターンを調整..."
+  },
+  "_dlgs.CAdjustPatternDlg_mc.name": {
+    "en": "Name:",
+    "fr": "Nom :",
+    "de": "Name:",
+    "es": "Nombre:",
+    "ja": "名前："
+  },
+  "_dlgs.CAdjustPatternDlg_mc.album": {
+    "en": "Album:",
+    "fr": "Album :",
+    "de": "Album:",
+    "es": "Álbum:",
+    "ja": "アルバム："
+  },
+  "_dlgs.CAdjustPatternDlg_mc.change": {
+    "en": "Change",
+    "fr": "Changer",
+    "de": "Ändern",
+    "es": "Cambiar",
+    "ja": "変更"
+  },
+  "_dlgs.CAdjustPatternDlg_mc.stitch_count": {
+    "en": "Stitch Count: {amount:999x999}",
+    "fr": "Nombre de points : {amount:999x999}",
+    "de": "Stichanzahl: {amount:999x999}",
+    "es": "Número de puntadas: {amount:999x999}",
+    "ja": "ステッチ数：{amount:999x999}"
+  },
+  "_dlgs.CAdjustPatternDlg_mc.free": {
+    "en": "777",
+    "fr": "GRATUIT",
+    "de": "KOSTENLOS",
+    "es": "GRATIS",
+    "ja": "無料"
+  },
+  "_dlgs.CAdjustPatternDlg_mc.num_colors": {
+    "en": "Number of Colors: {amount:32}",
+    "fr": "Nombre de couleurs : {amount:32}",
+    "de": "Anzahl der Farben: {amount:32}",
+    "es": "Número de colores: {amount:32}",
+    "ja": "色数：{amount:32}"
+  },
+  "_dlgs.CAdjustPatternDlg_mc.dithering": {
+    "en": "Dithering:",
+    "fr": "Tramage :",
+    "de": "Dithering:",
+    "es": "Dithering:",
+    "ja": "ディザ："
+  },
+  "_dlgs.CAdjustPatternDlg_mc.saturation": {
+    "en": "Saturation:",
+    "fr": "Saturation :",
+    "de": "Sättigung:",
+    "es": "Saturación:",
+    "ja": "彩度："
+  },
+  "_dlgs.CAdjustPatternDlg_mc.sharpness": {
+    "en": "Sharpness:",
+    "fr": "Netteté :",
+    "de": "Schärfe:",
+    "es": "Nitidez:",
+    "ja": "シャープネス："
+  },
+  "_dlgs.CAdjustPatternDlg_mc.save": {
+    "en": "Save",
+    "fr": "Enregistrer",
+    "de": "Speichern",
+    "es": "Guardar",
+    "ja": "保存"
+  },
+  "_dlgs.CAdjustPatternDlg_mc.not_enough_title": {
+    "en": "Not enough cash!",
+    "fr": "Pas assez de cash !",
+    "de": "Nicht genug Cash!",
+    "es": "¡No tienes suficiente cash!",
+    "ja": "キャッシュが足りません！"
+  },
+  "_dlgs.CAdjustPatternDlg_mc.not_enough_msg": {
+    "en": "You need {amount} more Cross-Stitch Cash to create this pattern. Would you like to buy more cash now?",
+    "fr": "Il vous manque {amount} Cash Cross-Stitch pour créer ce motif. Voulez-vous en acheter maintenant ?",
+    "de": "Sie benötigen {amount} Cross-Stitch-Cash mehr, um dieses Muster zu erstellen. Möchten Sie jetzt Cash kaufen?",
+    "es": "Necesitas {amount} cash Cross-Stitch más para crear este diseño. ¿Quieres comprar más ahora?",
+    "ja": "このパターンを作成するには、あと {amount} のクロスステッチキャッシュが必要です。今すぐ購入しますか？"
+  },
+  "_dlgs.CAdjustPatternDlg_mc.use_cash_title": {
+    "en": "Create Pattern",
+    "fr": "Créer le motif",
+    "de": "Muster erstellen",
+    "es": "Crear diseño",
+    "ja": "パターンを作成"
+  },
+  "_dlgs.CAdjustPatternDlg_mc.use_cash_msg": {
+    "en": "Would you like to use {amount} Cross-Stitch Cash to create this pattern?",
+    "fr": "Voulez-vous utiliser {amount} Cash Cross-Stitch pour créer ce motif ?",
+    "de": "Möchten Sie {amount} Cross-Stitch-Cash verwenden, um dieses Muster zu erstellen?",
+    "es": "¿Quieres usar {amount} cash Cross-Stitch para crear este diseño?",
+    "ja": "{amount} のクロスステッチキャッシュを使ってこのパターンを作成しますか？"
+  },
+  "_dlgs.CAdjustPatternDlg_mc.enter_name_title": {
+    "en": "Enter name",
+    "fr": "Entrez un nom",
+    "de": "Name eingeben",
+    "es": "Introduce un nombre",
+    "ja": "名前を入力"
+  },
+  "_dlgs.CAdjustPatternDlg_mc.enter_name_msg": {
+    "en": "Please enter a name for this pattern.",
+    "fr": "Veuillez entrer un nom pour ce motif.",
+    "de": "Bitte geben Sie einen Namen für dieses Muster ein.",
+    "es": "Introduce un nombre para este diseño.",
+    "ja": "このパターンの名前を入力してください。"
+  },
+  "_dlgs.CAdjustPatternDlg_mc.saving_title": {
+    "en": "Saving...",
+    "fr": "Enregistrement...",
+    "de": "Speichern...",
+    "es": "Guardando...",
+    "ja": "保存中..."
+  },
+  "_dlgs.CAdjustPatternDlg_mc.saving_msg": {
+    "en": "Please wait while we save your pattern...",
+    "fr": "Veuillez patienter pendant l’enregistrement de votre motif...",
+    "de": "Bitte warten Sie, während wir Ihr Muster speichern...",
+    "es": "Espera mientras guardamos tu diseño...",
+    "ja": "パターンを保存しています。しばらくお待ちください..."
+  },
+  "_dlgs.CSelectImgLocationDlg.limit_title": {
+    "en": "Limit Reached",
+    "fr": "Limite atteinte",
+    "de": "Limit erreicht",
+    "es": "Límite alcanzado",
+    "ja": "上限に達しました"
+  },
+  "_dlgs.CSelectImgLocationDlg.limit_msg": {
+    "en": "You have already created {amount} pattern(s) today. Would you like to use {cost} Cross-Stitch Cash to make another?",
+    "fr": "Vous avez déjà créé {amount} motifs aujourd’hui. Voulez-vous utiliser {cost} Cash Cross-Stitch pour en créer un autre ?",
+    "de": "Sie haben heute bereits {amount} Muster erstellt. Möchten Sie {cost} Cross-Stitch-Cash verwenden, um ein weiteres zu erstellen?",
+    "es": "Ya has creado {amount} diseños hoy. ¿Quieres usar {cost} cash Cross-Stitch para crear otro?",
+    "ja": "今日はすでに {amount} 個のパターンを作成しています。{cost} のクロスステッチキャッシュを使ってもう1つ作成しますか？"
+  },
+  "_dlgs.CSelectImgLocationDlg.not_enough2_title": {
+    "en": "Not enough cash!",
+    "fr": "Pas assez de cash !",
+    "de": "Nicht genug Cash!",
+    "es": "¡No tienes suficiente cash!",
+    "ja": "キャッシュが足りません！"
+  },
+  "_dlgs.CSelectImgLocationDlg.not_enough2_msg": {
+    "en": "You do not have enough cash to make another pattern. Would you like to buy more cash now?",
+    "fr": "Vous n’avez pas assez de cash pour créer un autre motif. Voulez-vous en acheter maintenant ?",
+    "de": "Sie haben nicht genug Cash, um ein weiteres Muster zu erstellen. Möchten Sie jetzt Cash kaufen?",
+    "es": "No tienes suficiente cash para crear otro diseño. ¿Quieres comprar más ahora?",
+    "ja": "別のパターンを作成するためのキャッシュが不足しています。今すぐ購入しますか？"
+  },
+  "_dlgs.CSelectImgLocationDlg.success_title": {
+    "en": "Success!",
+    "fr": "Succès !",
+    "de": "Erfolg!",
+    "es": "¡Éxito!",
+    "ja": "成功！"
+  },
+  "_dlgs.CSelectImgLocationDlg.success_msg": {
+    "en": "Your pattern is ready to play.",
+    "fr": "Votre motif est prêt à jouer.",
+    "de": "Ihr Muster ist spielbereit.",
+    "es": "Tu diseño está listo para jugar.",
+    "ja": "パターンの準備ができました。"
+  },
+  "_dlgs.CSelectImgLocationDlg.load_error_title": {
+    "en": "Error loading image",
+    "fr": "Erreur de chargement de l'image",
+    "de": "Fehler beim Laden des Bildes",
+    "es": "Error al cargar la imagen",
+    "ja": "画像の読み込みエラー"
+  },
+  "_dlgs.CSelectImgLocationDlg.load_error_msg": {
+    "en": "There was an error loading your chosen image. Please try another file.",
+    "fr": "Une erreur est survenue lors du chargement de l'image choisie. Veuillez essayer un autre fichier.",
+    "de": "Beim Laden des ausgewählten Bildes ist ein Fehler aufgetreten. Bitte versuchen Sie eine andere Datei.",
+    "es": "Ocurrió un error al cargar la imagen seleccionada. Por favor prueba con otro archivo.",
+    "ja": "選択した画像を読み込む際にエラーが発生しました。別のファイルをお試しください。"
+  },
+  "_dlgs.CChooseAlbumDlg_mc.title": {
+    "en": "Choose Album...",
+    "fr": "Choisir un album...",
+    "de": "Album auswählen...",
+    "es": "Elegir álbum...",
+    "ja": "アルバムを選択..."
+  },
+  "_dlgs.CChooseAlbumDlg_mc.prompt": {
+    "en": "Select an album for this new pattern:",
+    "fr": "Sélectionnez un album pour ce nouveau motif :",
+    "de": "Wählen Sie ein Album für dieses neue Muster:",
+    "es": "Selecciona un álbum para este nuevo diseño:",
+    "ja": "この新しいパターンのアルバムを選択してください："
+  },
+  "_dlgs.CSpecialOfferDlg_mc.title": {
+    "en": "Special Offer!",
+    "fr": "Offre spéciale !",
+    "de": "Sonderangebot!",
+    "es": "¡Oferta especial!",
+    "ja": "特別オファー！"
+  },
+  "_dlgs.CSpecialOfferDlg_mc.old_price": {
+    "en": "3,500 Cash",
+    "fr": "3,500 Cash",
+    "de": "3,500 Cash",
+    "es": "3,500 Cash",
+    "ja": "3,500 キャッシュ"
+  },
+  "_dlgs.CSpecialOfferDlg_mc.new_price": {
+    "en": "10,500 Cash",
+    "fr": "10,500 Cash",
+    "de": "10,500 Cash",
+    "es": "10,500 Cash",
+    "ja": "10,500 Cash"
+  },
+  "_dlgs.CSpecialOfferDlg_mc.multiplier": {
+    "en": "Cash",
+    "fr": "Cash",
+    "de": "Cash",
+    "es": "Cash",
+    "ja": "Cash"
+  },
+  "_dlgs.CSpecialOfferDlg_mc.subtitle": {
+    "en": "Don’t miss out on this amazing deal!",
+    "fr": "Ne manquez pas cette offre incroyable !",
+    "de": "Verpassen Sie dieses tolle Angebot nicht!",
+    "es": "¡No te pierdas esta oferta increíble!",
+    "ja": "このお得なチャンスをお見逃しなく！"
+  },
+  "_dlgs.CSpecialOfferDlg_mc.remove_ads": {
+    "en": "+ Remove adverts forever!",
+    "fr": "+ Supprimez les pubs pour toujours !",
+    "de": "+ Werbung für immer entfernen!",
+    "es": "+ ¡Elimina los anuncios para siempre!",
+    "ja": "+ 広告を永久に削除！"
+  },
+  "_dlgs.CSpecialOfferDlg_mc.ends_in": {
+    "en": "Offer ends in {time:34.23}",
+    "fr": "L’offre se termine dans {time:34.23}",
+    "de": "Angebot endet in {time:34.23}",
+    "es": "La oferta termina en {time:34.23}",
+    "ja": "終了まであと {time:34.23}"
+  },
+  "_dlgs.CSpecialOfferDlg_mc.buy": {
+    "en": "Buy for {price:$5.99}",
+    "fr": "Acheter pour {price:$5.99}",
+    "de": "Kaufen für {price:$5.99}",
+    "es": "Comprar por {price:$5.99}",
+    "ja": "{price:$5.99} で購入"
+  },
+  "_dlgs.CFreebieDlg_mc.title_free": {
+    "en": "Enjoy this FREE pattern!",
+    "fr": "Profitez de ce motif GRATUIT !",
+    "de": "Viel Spaß mit diesem GRATIS-Muster!",
+    "es": "¡Disfruta este patrón GRATIS!",
+    "ja": "この無料パターンをお楽しみください！"
+  },
+  "_dlgs.CFreebieDlg_mc.add_to_collection": {
+    "en": "Add to my collection!",
+    "fr": "Ajouter à ma collection !",
+    "de": "Zu meiner Sammlung hinzufügen!",
+    "es": "¡Añadir a mi colección!",
+    "ja": "コレクションに追加！"
+  },
+  "_dlgs.CNotificationPermissionDlg_mc.title": {
+    "en": "Never miss a free pattern!",
+    "fr": "Ne manquez jamais un motif gratuit !",
+    "de": "Verpassen Sie kein kostenloses Muster!",
+    "es": "¡No te pierdas ningún patrón gratis!",
+    "ja": "無料パターンを見逃さないで！"
+  },
+  "_dlgs.CNotificationPermissionDlg_mc.message": {
+    "en": "Would you like us to let you know when a new free pattern, or pattern set, drops?",
+    "fr": "Voulez-vous être averti lorsqu’un nouveau motif gratuit ou un set sort ?",
+    "de": "Möchten Sie informiert werden, wenn ein neues kostenloses Muster oder Set erscheint?",
+    "es": "¿Quieres que te avisemos cuando salga un nuevo patrón gratis o un set?",
+    "ja": "新しい無料パターンやパターンセットが出たらお知らせしますか？"
+  },
+  "_dlgs.CNotificationPermissionDlg_mc.later": {
+    "en": "Maybe Later",
+    "fr": "Plus tard",
+    "de": "Vielleicht später",
+    "es": "Quizás después",
+    "ja": "また今度"
+  },
+  "_dlgs.CNotificationPermissionDlg_mc.notify": {
+    "en": "Yes, notify me",
+    "fr": "Oui, avertissez-moi",
+    "de": "Ja, benachrichtigen",
+    "es": "Sí, notifícame",
+    "ja": "はい、通知してください"
+  },
+  "_dlgs.CUpsellFreePatternDlg_mc.title": {
+    "en": "Enjoyed this pattern?",
+    "fr": "Vous avez aimé ce motif ?",
+    "de": "Hat Ihnen dieses Muster gefallen?",
+    "es": "¿Te gustó este patrón?",
+    "ja": "このパターンは気に入りましたか？"
+  },
+  "_dlgs.CUpsellFreePatternDlg_mc.thanks": {
+    "en": "Thanks for playing!",
+    "fr": "Merci d’avoir joué !",
+    "de": "Danke fürs Spielen!",
+    "es": "¡Gracias por jugar!",
+    "ja": "遊んでくれてありがとう！"
+  },
+  "_dlgs.CUpsellFreePatternDlg_mc.message": {
+    "en": "The pattern you just completed was inspired by the set \"{setname:Wonderous Walrus}\" – you can find this set in the store using the button below!",
+    "fr": "Le motif que vous venez de terminer est inspiré du set « {setname:Wonderous Walrus} ». Vous pouvez trouver ce set dans la boutique grâce au bouton ci-dessous !",
+    "de": "Das soeben fertiggestellte Muster wurde vom Set „{setname:Wonderous Walrus}“ inspiriert. Sie finden dieses Set im Shop über den Button unten!",
+    "es": "El patrón que acabas de completar está inspirado en el set \"{setname:Wonderous Walrus}\". Puedes encontrar este set en la tienda usando el botón de abajo.",
+    "ja": "今完成したパターンは「{setname:Wonderous Walrus}」セットが元になっています。下のボタンからストアでこのセットを見ることができます！"
+  },
+  "_dlgs.CUpsellFreePatternDlg_mc.view_pack": {
+    "en": "See this pack in store...",
+    "fr": "Voir ce pack en boutique...",
+    "de": "Diesen Pack im Shop ansehen...",
+    "es": "Ver este pack en la tienda...",
+    "ja": "このパックをストアで見る"
+  },
+  "_dlgs.CFriendActivityDlg_mc.title": {
+    "en": "Friend Activity",
+    "fr": "Activité des amis",
+    "de": "Freundesaktivität",
+    "es": "Actividad de amigos",
+    "ja": "フレンドの活動"
+  },
+  "_dlgs.CFriendActivityDlg_mc.subtitle": {
+    "en": "What your Friends have been playing:",
+    "fr": "Ce que vos amis ont joué :",
+    "de": "Was Ihre Freunde gespielt haben:",
+    "es": "Lo que han estado jugando tus amigos:",
+    "ja": "フレンドが遊んだ内容："
+  },
+  "_dlgs.CFriendActivityDlg_mc.no_friends_msg1": {
+    "en": "You do not have any friends who play Cross-Stitch World.",
+    "fr": "Vous n’avez aucun ami qui joue à Cross-Stitch World.",
+    "de": "Sie haben keine Freunde, die Cross-Stitch World spielen.",
+    "es": "No tienes amigos que jueguen Cross-Stitch World.",
+    "ja": "クロスステッチワールドを遊んでいるフレンドはいません。"
+  },
+  "_dlgs.CFriendActivityDlg_mc.no_friends_msg2": {
+    "en": "Invite some friends to play!",
+    "fr": "Invitez des amis à jouer !",
+    "de": "Laden Sie einige Freunde zum Spielen ein!",
+    "es": "¡Invita a algunos amigos a jugar!",
+    "ja": "友達を招待しましょう！"
+  },
+  "_dlgs.CFriendActivityDlg_mc.invite": {
+    "en": "Invite",
+    "fr": "Inviter",
+    "de": "Einladen",
+    "es": "Invitar",
+    "ja": "招待"
+  },
+  "_dlgs.CFriendActivityDlg_mc.view_profile": {
+    "en": "View My Profile",
+    "fr": "Voir mon profil",
+    "de": "Mein Profil anzeigen",
+    "es": "Ver mi perfil",
+    "ja": "自分のプロフィールを見る"
+  },
+  "_dlgs.CFriendActivityDlg_mc.activity_none": {
+    "en": "Hasn't played anything yet",
+    "fr": "N’a encore rien joué",
+    "de": "Hat noch nichts gespielt",
+    "es": "Aún no ha jugado nada",
+    "ja": "まだ何も遊んでいません"
+  },
+  "_dlgs.CFriendActivityDlg_mc.activity_old": {
+    "en": "Played {pattern} over a month ago",
+    "fr": "A joué {pattern} il y a plus d’un mois",
+    "de": "Spielte {pattern} vor über einem Monat",
+    "es": "Jugó {pattern} hace más de un mes",
+    "ja": "{pattern} を1か月以上前にプレイしました"
+  },
+  "_dlgs.CFriendActivityDlg_mc.activity_simple": {
+    "en": "Last played {pattern}",
+    "fr": "Dernière partie : {pattern}",
+    "de": "Zuletzt gespielt: {pattern}",
+    "es": "Última partida: {pattern}",
+    "ja": "最終プレイ：{pattern}"
+  },
+  "_dlgs.CChoosePatternDlg_mc.title": {
+    "en": "Choose a Pattern...",
+    "fr": "Choisir un motif...",
+    "de": "Ein Muster wählen...",
+    "es": "Elige un patrón...",
+    "ja": "パターンを選択..."
+  },
+  "_dlgs.CChoosePatternDlg_mc.albums": {
+    "en": "Albums:",
+    "fr": "Albums :",
+    "de": "Alben:",
+    "es": "Álbumes:",
+    "ja": "アルバム："
+  },
+  "_dlgs.CChoosePatternDlg_mc.manage": {
+    "en": "Manage...",
+    "fr": "Gérer...",
+    "de": "Verwalten...",
+    "es": "Gestionar...",
+    "ja": "管理..."
+  },
+  "_dlgs.CChoosePatternDlg_mc.show_completed": {
+    "en": "Show completed",
+    "fr": "Afficher terminés",
+    "de": "Abgeschlossene zeigen",
+    "es": "Mostrar completados",
+    "ja": "完了を表示"
+  },
+  "_dlgs.CChoosePatternDlg_mc.more_patterns": {
+    "en": "More Patterns...",
+    "fr": "Plus de motifs...",
+    "de": "Mehr Muster...",
+    "es": "Más patrones...",
+    "ja": "さらにパターン..."
+  },
+  "_dlgs.CChoosePatternDlg_mc.play": {
+    "en": "Play",
+    "fr": "Jouer",
+    "de": "Spielen",
+    "es": "Jugar",
+    "ja": "プレイ"
+  },
+  "_dlgs.CChoosePatternDlg_mc.album_header": {
+    "en": "{name:~ View All}: album ({amount:5994} patterns)",
+    "fr": "{name} : album ({amount} motifs)",
+    "de": "{name}: Album ({amount} Muster)",
+    "es": "{name}: álbum ({amount} patrones)",
+    "ja": "{name}：アルバム（{amount} パターン）"
+  },
+  "_dlgs.CChoosePatternDlg_mc.size_xs": {
+    "en": "X-Small",
+    "fr": "XS - ",
+    "de": "XS – ",
+    "es": "XS - ",
+    "ja": "超小・"
+  },
+  "_dlgs.CChoosePatternDlg_mc.size_s": {
+    "en": "Small",
+    "fr": "S - ",
+    "de": "S – ",
+    "es": "S - ",
+    "ja": "小・"
+  },
+  "_dlgs.CChoosePatternDlg_mc.size_m": {
+    "en": "Med",
+    "fr": "M - ",
+    "de": "M – ",
+    "es": "M - ",
+    "ja": "中・"
+  },
+  "_dlgs.CChoosePatternDlg_mc.size_l": {
+    "en": "Large",
+    "fr": "L - ",
+    "de": "L – ",
+    "es": "L - ",
+    "ja": "大・"
+  },
+  "_dlgs.CChoosePatternDlg_mc.size_xl": {
+    "en": "X-Lrg",
+    "fr": "XL - ",
+    "de": "XL – ",
+    "es": "XL - ",
+    "ja": "超大・"
+  },
+  "_dlgs.CGalleryDlg.title": {
+    "en": "No Pattern Selected",
+    "fr": "Aucun motif sélectionné",
+    "de": "Kein Muster ausgewählt",
+    "es": "Ningún patrón seleccionado",
+    "ja": "パターンが選択されていません"
+  },
+  "_dlgs.CGalleryDlg.message": {
+    "en": "Please select a pattern to play!",
+    "fr": "Veuillez sélectionner un motif à jouer !",
+    "de": "Bitte wählen Sie ein Muster zum Spielen aus!",
+    "es": "¡Por favor elige un patrón para jugar!",
+    "ja": "プレイするパターンを選択してください！"
+  },
+  "_dlgs.CManageAlbumsDlg_mc.title": {
+    "en": "Manage Albums",
+    "fr": "Gérer les albums",
+    "de": "Alben verwalten",
+    "es": "Gestionar álbumes",
+    "ja": "アルバム管理"
+  },
+  "_dlgs.CManageAlbumsDlg_mc.selected_one": {
+    "en": "1 pattern selected",
+    "fr": "1 motif sélectionné",
+    "de": "1 Muster ausgewählt",
+    "es": "1 patrón seleccionado",
+    "ja": "1 パターンを選択中"
+  },
+  "_dlgs.CManageAlbumsDlg_mc.selected_count": {
+    "en": "{amount:99} Patterns selected",
+    "fr": "{amount:99} motifs sélectionnés",
+    "de": "{amount:99} Muster ausgewählt",
+    "es": "{amount:99} patrones seleccionados",
+    "ja": "{amount:99} パターンを選択中"
+  },
+  "_dlgs.CManageAlbumsDlg_mc.rename": {
+    "en": "Rename Album",
+    "fr": "Renommer l’album",
+    "de": "Album umbenennen",
+    "es": "Renombrar álbum",
+    "ja": "アルバム名変更"
+  },
+  "_dlgs.CManageAlbumsDlg_mc.delete": {
+    "en": "Delete Album",
+    "fr": "Supprimer l’album",
+    "de": "Album löschen",
+    "es": "Eliminar álbum",
+    "ja": "アルバムを削除"
+  },
+  "_dlgs.CManageAlbumsDlg_mc.new": {
+    "en": "New Album",
+    "fr": "Nouvel album",
+    "de": "Neues Album",
+    "es": "Nuevo álbum",
+    "ja": "新しいアルバム"
+  },
+  "_dlgs.CManageAlbumsDlg_mc.move_to": {
+    "en": "Move selected to Album...",
+    "fr": "Déplacer la sélection vers l’album...",
+    "de": "Auswahl in Album verschieben...",
+    "es": "Mover selección al álbum...",
+    "ja": "選択項目をアルバムへ移動..."
+  },
+  "_dlgs.CManageAlbumsDlg_mc.delete_selected": {
+    "en": "Delete selected",
+    "fr": "Supprimer la sélection",
+    "de": "Auswahl löschen",
+    "es": "Eliminar selección",
+    "ja": "選択項目を削除"
+  },
+  "_dlgs.CManageAlbumsDlg_mc.delete_album_title": {
+    "en": "Deleting Album",
+    "fr": "Suppression de l’album",
+    "de": "Album löschen",
+    "es": "Eliminar álbum",
+    "ja": "アルバムを削除"
+  },
+  "_dlgs.CManageAlbumsDlg_mc.delete_album_msg": {
+    "en": "Are you sure you want to delete this album from your gallery?",
+    "fr": "Êtes-vous sûr de vouloir supprimer cet album de votre galerie ?",
+    "de": "Möchten Sie dieses Album wirklich aus Ihrer Galerie löschen?",
+    "es": "¿Seguro que deseas eliminar este álbum de tu galería?",
+    "ja": "このアルバムをギャラリーから削除してもよろしいですか？"
+  },
+  "_dlgs.CManageAlbumsDlg_mc.none_selected_title": {
+    "en": "No Patterns Selected!",
+    "fr": "Aucun motif sélectionné !",
+    "de": "Keine Muster ausgewählt!",
+    "es": "¡No hay patrones seleccionados!",
+    "ja": "パターンが選択されていません！"
+  },
+  "_dlgs.CManageAlbumsDlg_mc.none_selected_msg": {
+    "en": "Please select the patterns you wish to delete.",
+    "fr": "Veuillez sélectionner les motifs à supprimer.",
+    "de": "Bitte wählen Sie die Muster aus, die Sie löschen möchten.",
+    "es": "Selecciona los patrones que deseas eliminar.",
+    "ja": "削除したいパターンを選択してください。"
+  },
+  "_dlgs.CManageAlbumsDlg_mc.confirm_delete_title": {
+    "en": "Are you sure?",
+    "fr": "Êtes-vous sûr ?",
+    "de": "Sind Sie sicher?",
+    "es": "¿Estás seguro?",
+    "ja": "よろしいですか？"
+  },
+  "_dlgs.CManageAlbumsDlg_mc.confirm_delete_msg": {
+    "en": "Are you sure you want to delete {amount} patterns?",
+    "fr": "Êtes-vous sûr de vouloir supprimer {amount} motifs ?",
+    "de": "Möchten Sie wirklich {amount} Muster löschen?",
+    "es": "¿Seguro que deseas eliminar {amount} patrones?",
+    "ja": "{amount} 個のパターンを削除してよろしいですか？"
+  },
+  "_dlgs.CDeleteAlbumDlg_mc.title": {
+    "en": "Move to Album",
+    "fr": "Déplacer vers l’album",
+    "de": "In Album verschieben",
+    "es": "Mover al álbum",
+    "ja": "アルバムへ移動"
+  },
+  "_dlgs.CDeleteAlbumDlg_mc.prompt": {
+    "en": "Please select an album to move the selected patterns to:",
+    "fr": "Veuillez sélectionner un album vers lequel déplacer les motifs sélectionnés :",
+    "de": "Bitte wählen Sie ein Album, in das die ausgewählten Muster verschoben werden sollen:",
+    "es": "Selecciona un álbum al que mover los patrones seleccionados:",
+    "ja": "選択したパターンを移動するアルバムを選んでください："
+  },
+  "_dlgs.CDeleteAlbumSelectDlg_mc.title": {
+    "en": "Delete Album",
+    "fr": "Supprimer l’album",
+    "de": "Album löschen",
+    "es": "Eliminar álbum",
+    "ja": "アルバムを削除"
+  },
+  "_dlgs.CDeleteAlbumSelectDlg_mc.prompt": {
+    "en": "Please select an album to move the contents of this album to:",
+    "fr": "Veuillez sélectionner un album vers lequel déplacer le contenu de cet album :",
+    "de": "Bitte wählen Sie ein Album, in das der Inhalt dieses Albums verschoben werden soll:",
+    "es": "Selecciona un álbum al que mover el contenido de este álbum:",
+    "ja": "このアルバムの内容を移動する先のアルバムを選んでください："
+  },
+  "_dlgs.CNewAlbumDlg_mc.title": {
+    "en": "New Album...",
+    "fr": "Nouvel album...",
+    "de": "Neues Album...",
+    "es": "Nuevo álbum...",
+    "ja": "新しいアルバム..."
+  },
+  "_dlgs.CNewAlbumDlg_mc.edit_title": {
+    "en": "Album name",
+    "fr": "Nom de l’album",
+    "de": "Albumname",
+    "es": "Nombre del álbum",
+    "ja": "アルバム名"
+  },
+  "_dlgs.CNewAlbumDlg_mc.prompt": {
+    "en": "Please enter a name for your album:",
+    "fr": "Veuillez entrer un nom pour votre album :",
+    "de": "Bitte einen Albumnamen eingeben:",
+    "es": "Ingresa un nombre para tu álbum:",
+    "ja": "アルバムの名前を入力してください："
+  },
+  "_dlgs.CDeleteAlbumDlg.select_album_title": {
+    "en": "Please Select an Album",
+    "fr": "Veuillez sélectionner un album",
+    "de": "Bitte ein Album auswählen",
+    "es": "Por favor selecciona un álbum",
+    "ja": "アルバムを選択してください"
+  },
+  "_dlgs.CDeleteAlbumDlg.select_album_msg": {
+    "en": "Please select an album to move your patterns to.",
+    "fr": "Veuillez sélectionner un album vers lequel déplacer vos motifs.",
+    "de": "Bitte wählen Sie ein Album, in das Ihre Muster verschoben werden sollen.",
+    "es": "Selecciona un álbum al que mover tus patrones.",
+    "ja": "パターンを移動するアルバムを選択してください。"
+  },
+  "_dlgs.CNewAlbumDlg_mc.working_title": {
+    "en": "Working",
+    "fr": "Traitement",
+    "de": "Wird ausgeführt",
+    "es": "Trabajando",
+    "ja": "処理中"
+  },
+  "_dlgs.CNewAlbumDlg_mc.please_wait": {
+    "en": "Please wait...",
+    "fr": "Veuillez patienter...",
+    "de": "Bitte warten...",
+    "es": "Por favor espera...",
+    "ja": "お待ちください..."
+  },
+  "_dlgs.CNewAlbumDlg_mc.invalid_title": {
+    "en": "Invalid Name",
+    "fr": "Nom invalide",
+    "de": "Ungültiger Name",
+    "es": "Nombre no válido",
+    "ja": "無効な名前"
+  },
+  "_dlgs.CNewAlbumDlg_mc.empty_name": {
+    "en": "Please write a name in the field.",
+    "fr": "Veuillez saisir un nom dans le champ.",
+    "de": "Bitte geben Sie einen Namen ein.",
+    "es": "Por favor escribe un nombre en el campo.",
+    "ja": "名前を入力してください。"
+  },
+  "_dlgs.CNewAlbumDlg_mc.name_exists": {
+    "en": "The name '{name}' already exists, please choose another name.",
+    "fr": "Le nom « {name} » existe déjà, veuillez en choisir un autre.",
+    "de": "Der Name „{name}“ existiert bereits. Bitte wählen Sie einen anderen.",
+    "es": "El nombre \"{name}\" ya existe, elige otro por favor.",
+    "ja": "「{name}」という名前は既に存在します。別の名前を選んでください。"
+  },
+  "_dlgs.CLevelUpMessage_mc.title": {
+    "en": "Level Up!",
+    "fr": "Niveau supérieur !",
+    "de": "Level-Up!",
+    "es": "¡Nivel aumentado!",
+    "ja": "レベルアップ！"
+  },
+  "_dlgs.CLevelUpMessage_mc.congrats": {
+    "en": "Congratulations!",
+    "fr": "Félicitations !",
+    "de": "Glückwunsch!",
+    "es": "¡Felicidades!",
+    "ja": "おめでとうございます！"
+  },
+  "_dlgs.CLevelUpMessage_mc.reached": {
+    "en": "You have reached level {level:9999}",
+    "fr": "Vous avez atteint le niveau {level:9999}",
+    "de": "Sie haben Level {level:9999} erreicht",
+    "es": "Has alcanzado el nivel {level:9999}",
+    "ja": "レベル{level:9999}に到達しました"
+  },
+  "_dlgs.CLevelUpMessage_mc.milestone_congrats": {
+    "en": "Great Work!",
+    "fr": "Beau travail !",
+    "de": "Gute Arbeit!",
+    "es": "¡Buen trabajo!",
+    "ja": "よくできました！"
+  },
+  "_dlgs.CLevelUpMessage_mc.milestone_reached": {
+    "en": "New milestone reached",
+    "fr": "Nouveau jalon atteint",
+    "de": "Neuer Meilenstein erreicht",
+    "es": "Nuevo hito alcanzado",
+    "ja": "新しいマイルストーンに到達しました"
+  },
+  "_dlgs.CChooseProgressDlg.title": {
+    "en": "Login with {platform:Google Play}",
+    "fr": "Connexion avec {platform:Google Play}",
+    "de": "Anmelden mit {platform:Google Play}",
+    "es": "Iniciar sesión con {platform:Google Play}",
+    "ja": "{platform:Google Play}でログイン"
+  },
+  "_dlgs.CChooseProgressDlg.question": {
+    "en": "Which progress would you like linked with your {platform:Google Play} account?",
+    "fr": "Quelle progression souhaitez-vous lier à votre compte {platform:Google Play} ?",
+    "de": "Welchen Fortschritt möchten Sie mit Ihrem {platform:Google Play}-Konto verknüpfen?",
+    "es": "¿Qué progreso desea vincular a su cuenta de {platform:Google Play}?",
+    "ja": "{platform:Google Play}アカウントにリンクしたい進行状況はどちらですか？"
+  },
+  "_dlgs.CChooseProgressDlg.device_title": {
+    "en": "Currently on this device:",
+    "fr": "Actuellement sur cet appareil :",
+    "de": "Zurzeit auf diesem Gerät:",
+    "es": "Actualmente en este dispositivo:",
+    "ja": "この端末の進行状況："
+  },
+  "_dlgs.CChooseProgressDlg.fb_title": {
+    "en": "Currently on {platform:Google Play}:",
+    "fr": "Actuellement sur {platform:Google Play} :",
+    "de": "Zurzeit auf {platform:Google Play}:",
+    "es": "Actualmente en {platform:Google Play}:",
+    "ja": "{platform:Google Play}上の進行状況："
+  },
+  "_dlgs.CChooseProgressDlg.choose": {
+    "en": "Choose this",
+    "fr": "Choisir",
+    "de": "Auswählen",
+    "es": "Elegir",
+    "ja": "これを選択"
+  },
+  "_dlgs.CChooseProgressDlg.player_id": {
+    "en": "Player ID: {value}",
+    "fr": "ID joueur : {value}",
+    "de": "Spieler-ID: {value}",
+    "es": "ID de jugador: {value}",
+    "ja": "プレイヤーID：{value}"
+  },
+  "_dlgs.CChooseProgressDlg.patterns": {
+    "en": "Patterns: {value}",
+    "fr": "Modèles : {value}",
+    "de": "Muster: {value}",
+    "es": "Patrones: {value}",
+    "ja": "パターン： {value}"
+  },
+  "_dlgs.CChooseProgressDlg.cash": {
+    "en": "Cash: {value}",
+    "fr": "Cash : {value}",
+    "de": "Cash: {value}",
+    "es": "Cash: {value}",
+    "ja": "キャッシュ： {value}"
+  },
+  "_dlgs.CFacebookMergeDlg_mc.date_started": {
+    "en": "Date started: {value}",
+    "fr": "Date de début : {value}",
+    "de": "Begonnen am: {value}",
+    "es": "Fecha de inicio: {value}",
+    "ja": "開始日：{value}"
+  },
+  "_dlgs.CDeleteAccountDlgA_mc.title": {
+    "en": "Delete data",
+    "fr": "Supprimer les données",
+    "de": "Daten löschen",
+    "es": "Borrar datos",
+    "ja": "データを削除"
+  },
+  "_dlgs.CDeleteAccountDlgA_mc.warning": {
+    "en": "WARNING: Continuing this process will completely and permanently delete ALL your data from our system - this includes your cash, pattern collection and any saved games!\n\nEverything you have done in this game will be gone forever and there is NO WAY to get it back.",
+    "fr": "AVERTISSEMENT : Cette action supprimera définitivement TOUTES vos données — y compris votre cash, vos modèles et vos sauvegardes.\n\nTout sera perdu pour toujours, et il sera impossible de le récupérer.",
+    "de": "WARNUNG: Dieser Vorgang löscht ALLE Ihre Daten dauerhaft – einschließlich Cash, Mustern und gespeicherten Spielen.\n\nAlles, was Sie getan haben, wird für immer verloren sein und kann nicht wiederhergestellt werden.",
+    "es": "ADVERTENCIA: Este proceso borrará de forma permanente TODOS sus datos — incluyendo su cash, colección de patrones y partidas guardadas.\n\nTodo lo que ha hecho se perderá para siempre y NO podrá recuperarse.",
+    "ja": "警告：この操作を続行すると、キャッシュ、パターン、セーブデータなど、すべてのデータが完全に削除されます。\n\nこれまでのプレイ内容はすべて失われ、元に戻すことはできません。"
+  },
+  "_dlgs.CDeleteAccountDlgB_mc.title": {
+    "en": "Are you absolutely sure?",
+    "fr": "Êtes-vous vraiment sûr ?",
+    "de": "Sind Sie ganz sicher?",
+    "es": "¿Está absolutamente seguro?",
+    "ja": "本当に削除しますか？"
+  },
+  "_dlgs.CDeleteDataDlg_mc.confirm": {
+    "en": "Be very sure this is what you want to do before continuing - we will NOT be able to restore your game progress!\n\nTo delete everything, type \"DELETE MY DATA\" in the box above, then click the button below.",
+    "fr": "Assurez-vous vraiment de vouloir continuer — nous ne pourrons PAS restaurer votre progression !\n\nPour tout supprimer, tapez « DELETE MY DATA » dans la case ci-dessus, puis cliquez sur le bouton.",
+    "de": "Stellen Sie sicher, dass Sie wirklich fortfahren möchten — wir können Ihren Spielfortschritt NICHT wiederherstellen!\n\nUm alles zu löschen, geben Sie „DELETE MY DATA“ oben ein und klicken Sie auf den Button.",
+    "es": "Asegúrese de que realmente desea continuar — no podremos restaurar su progreso del juego.\n\nPara borrar todo, escriba \"DELETE MY DATA\" en el cuadro de arriba y pulse el botón.",
+    "ja": "続行する前に本当に実行してよいか確認してください。進行状況を復元することはできません。\n\nすべて削除するには、上の欄に「DELETE MY DATA」と入力し、下のボタンを押してください。"
+  },
+  "_dlgs.CDeleteAccountDlgB_mc.confirm": {
+    "en": "Delete my data",
+    "fr": "Supprimer mes données",
+    "de": "Meine Daten löschen",
+    "es": "Borrar mis datos",
+    "ja": "データを削除"
+  },
+  "_dlgs.CDeleteAccountDlgB_mc.delete_action_required.title": {
+    "en": "Action required",
+    "fr": "Action requise",
+    "de": "Aktion erforderlich",
+    "es": "Acción requerida",
+    "ja": "操作が必要です"
+  },
+  "_dlgs.CDeleteAccountDlgB_mc.delete_action_required.body": {
+    "en": "Please follow the instructions above before pressing the 'Delete my data' button",
+    "fr": "Veuillez suivre les instructions ci-dessus avant d’appuyer sur le bouton « Supprimer mes données »",
+    "de": "Bitte folgen Sie den obigen Anweisungen, bevor Sie auf „Meine Daten löschen“ drücken",
+    "es": "Sigue las instrucciones anteriores antes de pulsar el botón \"Eliminar mis datos\"",
+    "ja": "「データ削除」ボタンを押す前に、上の指示に従ってください"
+  },
+  "_dlgs.CDeleteAccountDlgB_mc.delete_done.title": {
+    "en": "Your account has been deleted",
+    "fr": "Votre compte a été supprimé",
+    "de": "Ihr Konto wurde gelöscht",
+    "es": "Tu cuenta ha sido eliminada",
+    "ja": "アカウントは削除されました"
+  },
+  "_dlgs.CDeleteAccountDlgB_mc.delete_done.body": {
+    "en": "Please note, if you open the game again, a new account will be created for you and the data that we deleted may be collected again.\n\nThank you for playing Cross-Stitch World.",
+    "fr": "Veuillez noter que si vous rouvrez le jeu, un nouveau compte sera créé et les données supprimées pourront être collectées à nouveau.\n\nMerci de jouer à Cross-Stitch World.",
+    "de": "Wenn Sie das Spiel erneut öffnen, wird ein neues Konto erstellt und die zuvor gelöschten Daten können erneut gesammelt werden.\n\nVielen Dank, dass Sie Cross-Stitch World gespielt haben.",
+    "es": "Si vuelves a abrir el juego, se creará una nueva cuenta y los datos eliminados podrán recopilarse nuevamente.\n\nGracias por jugar a Cross-Stitch World.",
+    "ja": "ゲームを再度開くと新しいアカウントが作成され、削除したデータが再収集される可能性があります。\n\nCross-Stitch World をプレイいただきありがとうございました。"
+  },
+  "_dlgs.CDisconnectDlg_mc.title": {
+    "en": "Disconnect from {platform}",
+    "fr": "Se déconnecter de {platform}",
+    "de": "Von {platform} trennen",
+    "es": "Desconectarse de {platform}",
+    "ja": "{platform} から切断"
+  },
+  "_dlgs.CDisconnectDlg_mc.question": {
+    "en": "Which progress stays on your device, and which stays on your {platform:Google Play} account?",
+    "fr": "Quel progrès reste sur votre appareil et lequel sur votre compte {platform:Google Play} ?",
+    "de": "Welche Fortschritte bleiben auf Ihrem Gerät und welche auf Ihrem {platform:Google Play}-Konto?",
+    "es": "¿Qué progreso queda en su dispositivo y cuál en su cuenta de {platform:Google Play}?",
+    "ja": "どの進行状況を端末に残し、どれを{platform:Google Play}アカウントに残しますか？"
+  },
+  "_dlgs.CDisconnectDlg_mc.switch": {
+    "en": "Switch places",
+    "fr": "Inverser",
+    "de": "Tauschen",
+    "es": "Intercambiar",
+    "ja": "入れ替える"
+  },
+  "_dlgs.CDisconnectDlg_mc.keep_on_device": {
+    "en": "Keep on this device:",
+    "fr": "Garder sur cet appareil :",
+    "de": "Auf diesem Gerät behalten:",
+    "es": "Mantener en este dispositivo:",
+    "ja": "この端末に保持："
+  },
+  "_dlgs.CDisconnectDlg_mc.keep_on_platform": {
+    "en": "Keep on {platform}:",
+    "fr": "Garder sur {platform} :",
+    "de": "Auf {platform} behalten:",
+    "es": "Mantener en {platform}:",
+    "ja": "{platform} に保持："
+  },
+  "CAccountInfo.new_account": {
+    "en": "New Account",
+    "fr": "Nouveau compte",
+    "de": "Neues Konto",
+    "es": "Cuenta nueva",
+    "ja": "新規アカウント"
+  },
+  "CAccountInfo.today": {
+    "en": "Today",
+    "fr": "Aujourd’hui",
+    "de": "Heute",
+    "es": "Hoy",
+    "ja": "今日"
+  },
+  "CLoyaltyCard_mc.start_label": {
+    "en": "START",
+    "fr": "DÉBUT",
+    "de": "START",
+    "es": "INICIO",
+    "ja": "開始"
+  },
+  "_dlgs.CLoyaltyCard.title": {
+    "en": "{month:SEPTEMBER} LOYALTY CARD",
+    "fr": "CARTE DE FIDÉLITÉ DE {month}",
+    "de": "{month}-TREUEKARTE",
+    "es": "TARJETA DE FIDELIDAD DE {month}",
+    "ja": "{month} ロイヤルティカード"
+  },
+  "_dlgs.CLoyaltyCard.header_new_stamps": {
+    "en": "You've earned new stamps!",
+    "fr": "Vous avez gagné de nouveaux vignettes !",
+    "de": "Sie haben neue Stempel erhalten!",
+    "es": "¡Has conseguido nuevos sellos!",
+    "ja": "新しいスタンプを獲得しました！"
+  },
+  "_dlgs.CLoyaltyCard.header_no_stamps": {
+    "en": "Buy Cross-Stitch cash to get an exclusive free gift pattern",
+    "fr": "Achetez du cash pour obtenir un motif cadeau exclusif",
+    "de": "Kaufen Sie Cash, um ein exklusives Geschenk-Muster zu erhalten",
+    "es": "Compra cash para obtener un patrón de regalo exclusivo",
+    "ja": "キャッシュを購入して限定ギフトパターンを入手しましょう"
+  },
+  "_dlgs.CLoyaltyCard.header_more_cash": {
+    "en": "Buy more cash to get your next free gift pattern",
+    "fr": "Achetez plus de cash pour obtenir votre prochain motif cadeau",
+    "de": "Kaufen Sie mehr Cash, um Ihr nächstes Geschenk-Muster zu erhalten",
+    "es": "Compra más cash para obtener tu siguiente patrón de regalo",
+    "ja": "次のギフトパターンを得るにはもっとキャッシュを購入してください"
+  },
+  "_dlgs.CLoyaltyCard.header_complete": {
+    "en": "Your card is complete, come back next month!",
+    "fr": "Votre carte est complète, revenez le mois prochain !",
+    "de": "Ihre Karte ist vollständig – kommen Sie nächsten Monat zurück!",
+    "es": "Tu tarjeta está completa, ¡vuelve el próximo mes!",
+    "ja": "カードが完成しました。来月また来てください！"
+  },
+  "_dlgs.CLoyaltyCard.new_pattern": {
+    "en": "New pattern added to your collection!",
+    "fr": "Nouveau motif ajouté à votre collection !",
+    "de": "Neues Muster wurde Ihrer Sammlung hinzugefügt!",
+    "es": "¡Nuevo patrón añadido a tu colección!",
+    "ja": "新しいパターンがコレクションに追加されました！"
+  },
+  "_dlgs.CLoyaltyCard.thanks": {
+    "en": "Thank you for supporting Cross-Stitch World",
+    "fr": "Merci de soutenir Cross-Stitch World",
+    "de": "Danke für Ihre Unterstützung von Cross-Stitch World",
+    "es": "Gracias por apoyar Cross-Stitch World",
+    "ja": "Cross-Stitch World をご支援いただきありがとうございます"
+  },
+  "_dlgs.CNoLoyaltyCardDlg_mc.title": {
+    "en": "Sorry!",
+    "fr": "Désolé !",
+    "de": "Entschuldigung!",
+    "es": "¡Lo sentimos!",
+    "ja": "申し訳ありません！"
+  },
+  "_dlgs.CNoLoyaltyCardDlg_mc.message": {
+    "en": "There is currently no active loyalty card.",
+    "fr": "Il n’y a actuellement aucune carte de fidélité active.",
+    "de": "Zurzeit ist keine Treuekarte aktiv.",
+    "es": "Actualmente no hay ninguna tarjeta de fidelidad activa.",
+    "ja": "現在アクティブなロイヤルティカードはありません。"
+  },
+  "_dlgs.CNotAvailableOfflineDlg_mc.title": {
+    "en": "Playing Offline",
+    "fr": "Jeu hors ligne",
+    "de": "Offline spielen",
+    "es": "Jugando sin conexión",
+    "ja": "オフラインでプレイ中"
+  },
+  "_dlgs.CNotAvailableOfflineDlg_mc.message_default": {
+    "en": "This feature is not available when playing offline. Please try again when you are connected to the internet.",
+    "fr": "Cette fonctionnalité n’est pas disponible en mode hors ligne. Veuillez réessayer lorsque vous serez connecté à Internet.",
+    "de": "Diese Funktion ist im Offline-Modus nicht verfügbar. Bitte versuchen Sie es erneut, wenn Sie mit dem Internet verbunden sind.",
+    "es": "Esta función no está disponible sin conexión. Vuelve a intentarlo cuando estés conectado a Internet.",
+    "ja": "オフラインではこの機能は使用できません。インターネットに接続したらもう一度お試しください。"
+  },
+  "_dlgs.CNotAvailableOfflineDlg_mc.message_store": {
+    "en": "The store is not available offline. Please try again when you are connected to the internet.",
+    "fr": "La boutique n’est pas disponible en mode hors ligne. Veuillez réessayer lorsque vous serez connecté à Internet.",
+    "de": "Der Shop ist im Offline-Modus nicht verfügbar. Bitte versuchen Sie es erneut, wenn Sie mit dem Internet verbunden sind.",
+    "es": "La tienda no está disponible sin conexión. Vuelve a intentarlo cuando estés conectado a Internet.",
+    "ja": "オフラインではストアを利用できません。インターネットに接続したらもう一度お試しください。"
+  },
+  "_dlgs.COfflineDlg_mc.btn_offline": {
+    "en": "Continue Offline",
+    "fr": "Continuer hors ligne",
+    "de": "Offline fortfahren",
+    "es": "Continuar sin conexión",
+    "ja": "オフラインで続行"
+  },
+  "_dlgs.COfflineLoginDlg_mc.message_info": {
+    "en": "You are currently offline, so some parts of your game may not be up to date such as completed patterns or your cash amount.\n\nYou can play your existing patterns offline, but you will need to go online to get more patterns or to claim your rewards for completing them.",
+    "fr": "Vous êtes actuellement hors ligne, donc certaines parties de votre jeu peuvent ne pas être à jour, comme vos modèles terminés ou votre montant de cash.\n\nVous pouvez jouer vos modèles existants hors ligne, mais vous devrez vous connecter pour obtenir plus de modèles ou pour récupérer vos récompenses.",
+    "de": "Sie sind derzeit offline, daher sind möglicherweise einige Teile Ihres Spiels nicht aktuell, z. B. abgeschlossene Muster oder Ihr Cash-Stand.\n\nSie können Ihre vorhandenen Muster offline spielen, aber Sie müssen online gehen, um neue Muster zu erhalten oder Ihre Belohnungen dafür zu bekommen.",
+    "es": "Actualmente estás sin conexión, por lo que algunas partes de tu juego pueden no estar actualizadas, como tus patrones completados o tu cantidad de efectivo.\n\nPuedes jugar tus patrones actuales sin conexión, pero necesitarás conectarte para obtener más patrones o reclamar tus recompensas.",
+    "ja": "現在オフラインのため、完成したパターンやキャッシュ残高など、一部のゲーム情報が最新でない場合があります。\n\n既存のパターンはオフラインでもプレイできますが、新しいパターンを入手したり、報酬を受け取ったりするにはオンライン接続が必要です。"
+  },
+  "_dlgs.CMessageCenter_mc.title": {
+    "en": "Message Center",
+    "fr": "Centre de messages",
+    "de": "Nachrichtenzentrale",
+    "es": "Centro de mensajes",
+    "ja": "メッセージセンター"
+  },
+  "_dlgs.CMessageCenter_mc.your_messages": {
+    "en": "Your Messages:",
+    "fr": "Vos messages :",
+    "de": "Ihre Nachrichten:",
+    "es": "Tus mensajes:",
+    "ja": "あなたのメッセージ："
+  },
+  "_dlgs.CAcceptGiftDlg_mc.title": {
+    "en": "Accept Pattern",
+    "fr": "Accepter le modèle",
+    "de": "Muster akzeptieren",
+    "es": "Aceptar patrón",
+    "ja": "パターンを受け取る"
+  },
+  "_dlgs.CAcceptGiftDlg_mc.cost_for_pattern": {
+    "en": "Cost for pattern:",
+    "fr": "Coût pour le modèle :",
+    "de": "Kosten für das Muster:",
+    "es": "Costo del patrón:",
+    "ja": "パターンの費用："
+  },
+  "_dlgs.CAcceptGiftDlg_mc.base_cost": {
+    "en": "Base cost:",
+    "fr": "Coût de base :",
+    "de": "Grundkosten:",
+    "es": "Costo base:",
+    "ja": "基本料金："
+  },
+  "_dlgs.CAcceptGiftDlg_mc.daily_discount": {
+    "en": "Daily first pattern discount:",
+    "fr": "Réduction premier modèle :",
+    "de": "Rabatt für erstes Muster:",
+    "es": "Descuento del primer patrón:",
+    "ja": "最初のパターン割引："
+  },
+  "_dlgs.CAcceptGiftDlg_mc.premium": {
+    "en": "Premium pattern:",
+    "fr": "Modèle premium :",
+    "de": "Premium-Muster:",
+    "es": "Patrón premium:",
+    "ja": "プレミアムパターン："
+  },
+  "_dlgs.CAcceptGiftDlg_mc.total": {
+    "en": "Total:",
+    "fr": "Total :",
+    "de": "Gesamt:",
+    "es": "Total:",
+    "ja": "合計："
+  },
+  "_dlgs.CAcceptGiftDlg_mc.accept_for": {
+    "en": "Accept for {amount:999}",
+    "fr": "Accepter pour {amount:999}",
+    "de": "Akzeptieren für {amount:999}",
+    "es": "Aceptar por {amount:999}",
+    "ja": "{amount:999}で受け取る"
+  },
+  "_dlgs.CAcceptGiftDlg_mc.not_enough_cash.title": {
+    "en": "Not enough cash!",
+    "fr": "Pas assez de cash !",
+    "de": "Nicht genug Cash!",
+    "es": "¡No tienes suficiente cash!",
+    "ja": "キャッシュが足りません！"
+  },
+  "_dlgs.CAcceptGiftDlg_mc.not_enough_cash": {
+    "en": "You do not have enough cash to accept this pattern. Would you like to buy more cash now?",
+    "fr": "Vous n’avez pas assez de cash pour accepter ce modèle. Voulez-vous en acheter ?",
+    "de": "Sie haben nicht genug Cash, um dieses Muster anzunehmen. Möchten Sie mehr kaufen?",
+    "es": "No tienes suficiente cash para aceptar este patrón. ¿Quieres comprar más?",
+    "ja": "このパターンを受け取るにはキャッシュが足りません。購入しますか？"
+  },
+  "_dlgs.CAcceptGiftDlg_mc.duplicate.title": {
+    "en": "Duplicate pattern",
+    "fr": "Modèle en double",
+    "de": "Doppeltes Muster",
+    "es": "Patrón duplicado",
+    "ja": "重複したパターン"
+  },
+  "_dlgs.CAcceptGiftDlg_mc.duplicate": {
+    "en": "This pattern was already in your collection.",
+    "fr": "Ce modèle était déjà dans votre collection.",
+    "de": "Dieses Muster befindet sich bereits in Ihrer Sammlung.",
+    "es": "Este patrón ya estaba en tu colección.",
+    "ja": "このパターンはすでにコレクションにあります。"
+  },
+  "_dlgs.CAcceptGiftDlg_mc.gift_claimed.title": {
+    "en": "Gift claimed",
+    "fr": "Cadeau obtenu",
+    "de": "Geschenk erhalten",
+    "es": "Regalo recibido",
+    "ja": "ギフト受け取り完了"
+  },
+  "_dlgs.CAcceptGiftDlg_mc.gift_claimed": {
+    "en": "This pattern has been added to your collection.",
+    "fr": "Ce modèle a été ajouté à votre collection.",
+    "de": "Dieses Muster wurde zu Ihrer Sammlung hinzugefügt.",
+    "es": "Este patrón se ha añadido a tu colección.",
+    "ja": "このパターンがコレクションに追加されました。"
+  },
+  "_dlgs.CMessageCenter.no_messages.title": {
+    "en": "No Messages",
+    "fr": "Aucun message",
+    "de": "Keine Nachrichten",
+    "es": "Sin mensajes",
+    "ja": "メッセージなし"
+  },
+  "_dlgs.CMessageCenter.no_messages.body": {
+    "en": "You have no messages to view",
+    "fr": "Vous n’avez aucun message à afficher",
+    "de": "Sie haben keine Nachrichten zum Anzeigen",
+    "es": "No tienes mensajes para ver",
+    "ja": "表示するメッセージはありません"
+  },
+  "_msg.friend_sent_pattern": {
+    "en": "{name} sent you a Pattern!",
+    "fr": "{name} vous a envoyé un modèle !",
+    "de": "{name} hat Ihnen ein Muster geschickt!",
+    "es": "¡{name} te ha enviado un patrón!",
+    "ja": "{name} さんがパターンを送ってくれました！"
+  },
+  "_msg.friend_sent_premium": {
+    "en": "{name} sent you a Premium pattern!",
+    "fr": "{name} vous a envoyé un modèle !",
+    "de": "{name} hat Ihnen ein Muster geschickt!",
+    "es": "¡{name} te ha enviado un patrón!",
+    "ja": "{name} さんがパターンを送ってくれました！"
+  },
+  "_msg.friend_sent_named_pattern": {
+    "en": "{name} sent you {pattern_name}",
+    "fr": "{name} vous a envoyé {pattern_name}",
+    "de": "{name} hat Ihnen {pattern_name} geschickt",
+    "es": "{name} te ha enviado {pattern_name}",
+    "ja": "{name} さんが {pattern_name} を送ってくれました"
+  },
+  "_msg.friend_bought_cash": {
+    "en": "{name} bought you cash!",
+    "fr": "{name} vous a acheté du cash !",
+    "de": "{name} hat Ihnen Cash gekauft!",
+    "es": "¡{name} te ha comprado cash!",
+    "ja": "{name} さんがあなたにキャッシュを購入しました！"
+  },
+  "_msg.friend_bought_cash_amount": {
+    "en": "{name} bought you {amount} Cash! This cash has been added to your account.",
+    "fr": "{name} vous a acheté {amount} cash ! Ce cash a été ajouté à votre compte.",
+    "de": "{name} hat Ihnen {amount} Cash gekauft! Dieses Cash wurde Ihrem Konto gutgeschrieben.",
+    "es": "¡{name} te ha comprado {amount} cash! Se ha añadido a tu cuenta.",
+    "ja": "{name} さんが {amount} キャッシュを購入しました！ このキャッシュはあなたのアカウントに追加されました。"
+  },
+  "_msg.thank_you_purchase": {
+    "en": "Thank you for your purchase",
+    "fr": "Merci pour votre achat",
+    "de": "Vielen Dank für Ihren Kauf",
+    "es": "Gracias por tu compra",
+    "ja": "ご購入ありがとうございます"
+  },
+  "_msg.cash_added": {
+    "en": "{amount} Cross-Stitch Cash has been added to your account.",
+    "fr": "{amount} cash Cross-Stitch a été ajouté à votre compte.",
+    "de": "{amount} Cross-Stitch Cash wurde Ihrem Konto gutgeschrieben.",
+    "es": "{amount} Cross-Stitch cash se ha añadido a tu cuenta.",
+    "ja": "{amount} クロスステッチキャッシュがアカウントに追加されました。"
+  },
+  "COptionsStitchSizePanel_mc.title": {
+    "en": "Game settings",
+    "fr": "Paramètres du jeu",
+    "de": "Spieleinstellungen",
+    "es": "Configuración del juego",
+    "ja": "ゲーム設定"
+  },
+  "COptionsStitchSizePanel_mc.stitch_size.title": {
+    "en": "Base stitch size:",
+    "fr": "Taille de point de base:",
+    "de": "Basis-Stichgröße:",
+    "es": "Tamaño básico del punto:",
+    "ja": "基本のステッチサイズ:"
+  },
+  "COptionsStitchSizePanel_mc.stitch_size.small": {
+    "en": "Small",
+    "fr": "Petit",
+    "de": "Klein",
+    "es": "Pequeño",
+    "ja": "小"
+  },
+  "COptionsStitchSizePanel_mc.stitch_size.medium": {
+    "en": "Medium",
+    "fr": "Moyen",
+    "de": "Mittel",
+    "es": "Mediano",
+    "ja": "中"
+  },
+  "COptionsStitchSizePanel_mc.stitch_size.large": {
+    "en": "Large",
+    "fr": "Grand",
+    "de": "Groß",
+    "es": "Grande",
+    "ja": "大"
+  },
+  "COptionsDlg_mc.save_and_close": {
+    "en": "Save and close",
+    "fr": "Enregistrer et fermer",
+    "de": "Speichern und schließen",
+    "es": "Guardar y cerrar",
+    "ja": "保存して閉じる"
+  },
+  "COptionsDlg_mc.header.gameplay": {
+    "en": "Gameplay",
+    "fr": "Gameplay",
+    "de": "Gameplay",
+    "es": "Jugabilidad",
+    "ja": "ゲームプレイ"
+  },
+  "COptionsDlg_mc.header.interface": {
+    "en": "Interface",
+    "fr": "Interface",
+    "de": "Interface",
+    "es": "Interfaz",
+    "ja": "インターフェース"
+  },
+  "COptionsDlg_mc.header.misc": {
+    "en": "Misc",
+    "fr": "Divers",
+    "de": "Verschiedenes",
+    "es": "Varios",
+    "ja": "その他"
+  },
+  "COptionsDlg_mc.header.support": {
+    "en": "Support",
+    "fr": "Support",
+    "de": "Support",
+    "es": "Soporte",
+    "ja": "サポート"
+  },
+  "COptionsDlg_mc.header.account": {
+    "en": "Account",
+    "fr": "Compte",
+    "de": "Konto",
+    "es": "Cuenta",
+    "ja": "アカウント"
+  },
+  "COptionsDlg_mc.player_id": {
+    "en": "Player ID: {value}",
+    "fr": "ID joueur : {value}",
+    "de": "Spieler-ID: {value}",
+    "es": "ID de jugador: {value}",
+    "ja": "プレイヤーID: {value}"
+  },
+  "COptionsDlg_mc.guest_login": {
+    "en": "Playing as guest, login to protect your progress",
+    "fr": "Vous jouez en invité, connectez-vous pour protéger votre progression",
+    "de": "Sie spielen als Gast, melden Sie sich an, um Ihren Fortschritt zu sichern",
+    "es": "Jugando como invitado, inicia sesión para proteger tu progreso",
+    "ja": "ゲストとしてプレイ中です。進行状況を保護するにはログインしてください"
+  },
+  "COptionsDlg_mc.linked_to": {
+    "en": "Linked to {platform}",
+    "fr": "Lié à {platform}",
+    "de": "Verknüpft mit {platform}",
+    "es": "Vinculado a {platform}",
+    "ja": "{platform} にリンクされています"
+  },
+  "COptionsDlg_mc.unlink": {
+    "en": "Unlink from {platform:Google}",
+    "fr": "Dissocier de {platform:Apple}",
+    "de": "Konto lösen",
+    "es": "Desvincular de {platform:Facebook}",
+    "ja": "{platform:Amazon} から解除する"
+  },
+  "COptionsDlg_mc.account_assistance": {
+    "en": "Account assistance...",
+    "fr": "Assistance compte...",
+    "de": "Konto-Hilfe...",
+    "es": "Asistencia de cuenta...",
+    "ja": "アカウントサポート..."
+  },
+  "COptionsDlg_mc.delete_account": {
+    "en": "Delete my account",
+    "fr": "Supprimer mon compte",
+    "de": "Mein Konto löschen",
+    "es": "Eliminar mi cuenta",
+    "ja": "アカウントを削除"
+  },
+  "COptionsDlg_mc.contact_us": {
+    "en": "Contact us",
+    "fr": "Contactez-nous",
+    "de": "Kontaktieren Sie uns",
+    "es": "Contáctanos",
+    "ja": "お問い合わせ"
+  },
+  "COptionsDlg_mc.help_support": {
+    "en": "Help & support center",
+    "fr": "Aide & support",
+    "de": "Hilfe & Support",
+    "es": "Centro de ayuda y soporte",
+    "ja": "ヘルプとサポート"
+  },
+  "COptionsDlg_mc.privacy_policy": {
+    "en": "Privacy policy",
+    "fr": "Politique de confidentialité",
+    "de": "Datenschutzrichtlinie",
+    "es": "Política de privacidad",
+    "ja": "プライバシーポリシー"
+  },
+  "COptionsDlg_mc.privacy_settings": {
+    "en": "Privacy settings",
+    "fr": "Paramètres de confidentialité",
+    "de": "Datenschutzeinstellungen",
+    "es": "Configuración de privacidad",
+    "ja": "プライバシー設定"
+  },
+  "COptionsDlg_mc.select_language": {
+    "en": "Select language",
+    "fr": "Choisir la langue",
+    "de": "Sprache wählen",
+    "es": "Seleccionar idioma",
+    "ja": "言語を選択"
+  },
+  "COptionsDlg_mc.support_info": {
+    "en": "Need some help? View our FAQ page, or contact us directly about your problem!",
+    "fr": "Besoin d’aide ? Consultez notre FAQ ou contactez-nous directement pour votre problème !",
+    "de": "Brauchen Sie Hilfe? Sehen Sie unsere FAQ an oder kontaktieren Sie uns direkt mit Ihrem Problem!",
+    "es": "¿Necesitas ayuda? Consulta nuestra página de preguntas frecuentes o contáctanos directamente sobre tu problema.",
+    "ja": "お困りですか？FAQページを見るか、直接お問い合わせください!"
+  },
+  "COptionsDlg_mc.show_remaining": {
+    "en": "Show how many of each thread color are left",
+    "fr": "Afficher combien de fils restent",
+    "de": "Anzeigen, wie viele Fäden übrig sind",
+    "es": "Mostrar cuántos hilos quedan",
+    "ja": "残りの糸数を表示する"
+  },
+  "COptionsDlg_mc.one_finger_scroll": {
+    "en": "Scroll with one finger",
+    "fr": "Défilement à un doigt",
+    "de": "Mit einem Finger scrollen",
+    "es": "Desplazarse con un dedo",
+    "ja": "1本指でスクロール"
+  },
+  "COptionsDlg_mc.pinch_zoom": {
+    "en": "Pinch to zoom out",
+    "fr": "Pincer pour dézoomer",
+    "de": "Zum Herauszoomen kneifen",
+    "es": "Pellizcar para alejar",
+    "ja": "ピンチで縮小"
+  },
+  "COptionsDlg_mc.jump_to_empty": {
+    "en": "Press and hold thread to jump to empty stitches",
+    "fr": "Maintenir le fil pour aller aux points vides",
+    "de": "Faden halten, um zu leeren Stichen zu springen",
+    "es": "Mantén el hilo para saltar a puntos vacíos",
+    "ja": "長押しで空きステッチへ移動"
+  },
+  "COptionsDlg_mc.hide_remaining_button": {
+    "en": "Hide the 'stitches remaining' button",
+    "fr": "Masquer le bouton 'points restants'",
+    "de": "„Stiche übrig“-Schaltfläche ausblenden",
+    "es": "Ocultar el botón 'puntos restantes'",
+    "ja": "「残りステッチ」ボタンを隠す"
+  },
+  "COptionsDlg_mc.allow_overstitch": {
+    "en": "Allow stitching over previous stitches",
+    "fr": "Autoriser à broder sur les points déjà faits",
+    "de": "Über vorhandene Stiche nähen erlauben",
+    "es": "Permitir coser sobre puntadas anteriores",
+    "ja": "以前のステッチに上書き可能にする"
+  },
+  "COptionsDlg_mc.highlight": {
+    "en": "Highlight stitches for selected thread color",
+    "fr": "Surligner les points de la couleur sélectionnée",
+    "de": "Stiche der gewählten Farbe hervorheben",
+    "es": "Resaltar puntadas del color seleccionado",
+    "ja": "選択色のステッチを強調表示"
+  },
+  "COptionsDlg_mc.animate_stitches": {
+    "en": "Animate stitches",
+    "fr": "Animer les points",
+    "de": "Stiche animieren",
+    "es": "Animar puntadas",
+    "ja": "ステッチをアニメ表示"
+  },
+  "COptionsDlg_mc.battery_saver": {
+    "en": "Battery saver mode",
+    "fr": "Mode économie d’énergie",
+    "de": "Energiesparmodus",
+    "es": "Modo ahorro de batería",
+    "ja": "省電力モード"
+  },
+  "COptionsDlg_mc.show_timer": {
+    "en": "Show timer",
+    "fr": "Afficher le chronomètre",
+    "de": "Timer anzeigen",
+    "es": "Mostrar temporizador",
+    "ja": "タイマーを表示"
+  },
+  "COptionsDlg_mc.left_handed": {
+    "en": "Left handed mode",
+    "fr": "Mode gaucher",
+    "de": "Linkshändermodus",
+    "es": "Modo zurdo",
+    "ja": "左利きモード"
+  },
+  "COptionsDlg_mc.edge_to_edge": {
+    "en": "Edge to edge mode",
+    "fr": "Mode bord à bord",
+    "de": "Randlosmodus",
+    "es": "Modo de borde a borde",
+    "ja": "エッジツーエッジ表示"
+  },
+  "COptionsDlg_mc.allow_gallery_view": {
+    "en": "Allow friends to view my Gallery",
+    "fr": "Autoriser mes amis à voir ma galerie",
+    "de": "Freunden erlauben, meine Galerie zu sehen",
+    "es": "Permitir que amigos vean mi galería",
+    "ja": "友達にギャラリー閲覧を許可"
+  },
+  "COptionsDlg_mc.gallery_timeline": {
+    "en": "Show Gallery as Timeline",
+    "fr": "Afficher la galerie en chronologie",
+    "de": "Galerie als Zeitachse anzeigen",
+    "es": "Mostrar galería como línea temporal",
+    "ja": "ギャラリーをタイムライン表示"
+  },
+  "CGameResDlg_mc.adjust_screen_size.title": {
+    "en": "Adjust screen size",
+    "fr": "Ajuster la taille d’écran",
+    "de": "Bildschirmgröße anpassen",
+    "es": "Ajustar tamaño de pantalla",
+    "ja": "画面サイズを調整"
+  },
+  "CGameResDlg_mc.adjust_screen_size.smaller": {
+    "en": "Smaller buttons",
+    "fr": "Boutons plus petits",
+    "de": "Kleinere Schaltflächen",
+    "es": "Botones más pequeños",
+    "ja": "小さいボタン"
+  },
+  "CGameResDlg_mc.adjust_screen_size.bigger": {
+    "en": "Bigger buttons",
+    "fr": "Boutons plus grands",
+    "de": "Größere Schaltflächen",
+    "es": "Botones más grandes",
+    "ja": "大きいボタン"
+  },
+  "CGameResDlg_mc.adjust_screen_size.default": {
+    "en": "Default",
+    "fr": "Par défaut",
+    "de": "Standard",
+    "es": "Predeterminado",
+    "ja": "デフォルト"
+  },
+  "_dlgs.CRecommndedLoginDlg.title": {
+    "en": "Back up your progress?",
+    "fr": "Sauvegarder votre progression ?",
+    "de": "Fortschritt sichern?",
+    "es": "¿Respaldar tu progreso?",
+    "ja": "進行状況をバックアップしますか？"
+  },
+  "_dlgs.CRecommndedLoginDlg.recommend": {
+    "en": "We recommend linking with Facebook or {platform:Google Play} to ensure your patterns and progress are backed up",
+    "fr": "Nous vous conseillons de lier Facebook ou {platform:Google Play} afin de sauvegarder vos motifs et votre progression",
+    "de": "Wir empfehlen, Facebook oder {platform:Google Play} zu verknüpfen, um Muster und Fortschritt zu sichern",
+    "es": "Recomendamos vincular con Facebook o {platform:Google Play} para asegurar tus patrones y progreso",
+    "ja": "パターンと進行状況を保護するために Facebook または {platform:Google Play} と連携することをおすすめします"
+  },
+  "_dlgs.CRecommndedLoginDlg.continue_guest": {
+    "en": "Continue as Guest",
+    "fr": "Continuer en invité",
+    "de": "Als Gast fortfahren",
+    "es": "Continuar como invitado",
+    "ja": "ゲストとして続行"
+  },
+  "_dlgs.COnlyOnFbDlg.title": {
+    "en": "Facebook feature",
+    "fr": "Fonction Facebook",
+    "de": "Facebook-Funktion",
+    "es": "Función de Facebook",
+    "ja": "Facebook機能"
+  },
+  "_dlgs.COnlyOnFbDlg.only_facebook": {
+    "en": "This feature is only available to accounts linked with Facebook.",
+    "fr": "Cette fonctionnalité est disponible uniquement pour les comptes liés à Facebook.",
+    "de": "Diese Funktion ist nur für mit Facebook verknüpfte Konten verfügbar.",
+    "es": "Esta función solo está disponible para cuentas vinculadas con Facebook.",
+    "ja": "この機能はFacebookにリンクされたアカウントでのみ利用できます。"
+  },
+  "_dlgs.COnlyOnFbDlg.require_facebook": {
+    "en": "This feature requires that you connect your account to Facebook. We recommend doing this as it also protects your progress and patterns from being lost.",
+    "fr": "Cette fonctionnalité nécessite de lier votre compte à Facebook. Nous le recommandons, car cela protège également votre progression et vos modèles contre toute perte.",
+    "de": "Diese Funktion erfordert die Verknüpfung Ihres Kontos mit Facebook. Wir empfehlen dies, da dadurch auch Ihr Fortschritt und Ihre Muster geschützt sind.",
+    "es": "Esta función requiere que vincules tu cuenta con Facebook. Lo recomendamos ya que también protege tu progreso y patrones de pérdidas.",
+    "ja": "この機能を使用するには、アカウントをFacebookに接続する必要があります。進行状況やパターンを失わないためにも、接続をおすすめします。"
+  },
+  "_dlgs.CConfirmIdentityDlg_mc.title": {
+    "en": "Login with Facebook",
+    "fr": "Se connecter avec Facebook",
+    "de": "Mit Facebook anmelden",
+    "es": "Iniciar sesión con Facebook",
+    "ja": "Facebookでログイン"
+  },
+  "_dlgs.CConfirmIdentityDlg_mc.continue_as": {
+    "en": "Continue as",
+    "fr": "Continuer en tant que",
+    "de": "Weiter als",
+    "es": "Continuar como",
+    "ja": "次で続行"
+  },
+  "_dlgs.CPlayerProfileDlg.title": {
+    "en": "Player Profile",
+    "fr": "Profil du joueur",
+    "de": "Spielerprofil",
+    "es": "Perfil del jugador",
+    "ja": "プレイヤープロフィール"
+  },
+  "_dlgs.CPlayerProfileDlg.member_since": {
+    "en": "Member since: {date}",
+    "fr": "Membre depuis : {date}",
+    "de": "Mitglied seit: {date}",
+    "es": "Miembro desde: {date}",
+    "ja": "開始日: {date}"
+  },
+  "_dlgs.CPlayerProfileDlg.last_online": {
+    "en": "Last online: {date}",
+    "fr": "Dernière connexion : {date}",
+    "de": "Zuletzt online: {date}",
+    "es": "Última conexión: {date}",
+    "ja": "最終オンライン: {date}"
+  },
+  "_dlgs.CPlayerProfileDlg.total_xp": {
+    "en": "Total XP: {value}",
+    "fr": "XP total : {value}",
+    "de": "Gesamt-XP: {value}",
+    "es": "XP total: {value}",
+    "ja": "総XP: {value}"
+  },
+  "_dlgs.CPlayerProfileDlg.completed": {
+    "en": "Patterns Completed:",
+    "fr": "Modèles terminés :",
+    "de": "Abgeschlossene Muster:",
+    "es": "Patrones completados:",
+    "ja": "完成パターン:"
+  },
+  "_dlgs.CPlayerProfileDlg.created": {
+    "en": "Patterns Created:",
+    "fr": "Modèles créés :",
+    "de": "Erstellte Muster:",
+    "es": "Patrones creados:",
+    "ja": "作成したパターン:"
+  },
+  "_dlgs.CPlayerProfileDlg.view_gallery": {
+    "en": "View Pattern Gallery",
+    "fr": "Voir la galerie",
+    "de": "Galerie ansehen",
+    "es": "Ver galería de patrones",
+    "ja": "パターンギャラリーを見る"
+  },
+  "_dlgs.CShareCompletePatternDlg.title": {
+    "en": "Share your Cross-Stitch?",
+    "fr": "Partager votre point de croix ?",
+    "de": "Ihr Kreuzstich teilen?",
+    "es": "¿Compartir tu punto de cruz?",
+    "ja": "クロスステッチを共有しますか？"
+  },
+  "_dlgs.CShareCompletePatternDlg.finish": {
+    "en": "Finish sharing",
+    "fr": "Terminer le partage",
+    "de": "Teilen beenden",
+    "es": "Finalizar compartición",
+    "ja": "共有を終了"
+  },
+  "_dlgs.CShareCompletePatternDlg.share_animation": {
+    "en": "Share as animation...",
+    "fr": "Partager en animation...",
+    "de": "Als Animation teilen...",
+    "es": "Compartir como animación...",
+    "ja": "アニメーションとして共有..."
+  },
+  "_dlgs.CShareCompletePatternDlg.share_image": {
+    "en": "Share as image...",
+    "fr": "Partager en image...",
+    "de": "Als Bild teilen...",
+    "es": "Compartir como imagen...",
+    "ja": "画像として共有..."
+  },
+  "_dlgs.CShareCompletePatternDlg.print_download": {
+    "en": "Print or download it instead",
+    "fr": "L’imprimer ou le télécharger à la place",
+    "de": "Stattdessen drucken oder herunterladen",
+    "es": "Imprimirlo o descargarlo",
+    "ja": "代わりに印刷またはダウンロード"
+  },
+  "_dlgs.CShareCompletePatternDlg.dont_share": {
+    "en": "Don't share",
+    "fr": "Ne pas partager",
+    "de": "Nicht teilen",
+    "es": "No compartir",
+    "ja": "共有しない"
+  },
+  "_dlgs.CShareCompletePatternDlg.uploading_image": {
+    "en": "Uploading image",
+    "fr": "Téléchargement de l’image",
+    "de": "Bild wird hochgeladen",
+    "es": "Cargando imagen",
+    "ja": "画像をアップロード中"
+  },
+  "_dlgs.CShareCompletePatternDlg.unable_to_share": {
+    "en": "Unable to share this image",
+    "fr": "Impossible de partager cette image",
+    "de": "Dieses Bild kann nicht geteilt werden",
+    "es": "No se puede compartir esta imagen",
+    "ja": "この画像を共有できません"
+  },
+  "_dlgs.CShareCompletePatternDlg.permission_needed": {
+    "en": "You must grant this app permission to share images.",
+    "fr": "Vous devez autoriser l’application à partager des images.",
+    "de": "Sie müssen dieser App die Berechtigung geben, Bilder zu teilen.",
+    "es": "Debe otorgar permiso a la aplicación para compartir imágenes.",
+    "ja": "画像を共有するには、このアプリに権限を与える必要があります。"
+  },
+  "_dlgs.CShareCompletePatternDlg.something_wrong": {
+    "en": "Something went wrong",
+    "fr": "Un problème est survenu",
+    "de": "Etwas ist schiefgelaufen",
+    "es": "Algo salió mal",
+    "ja": "問題が発生しました"
+  },
+  "_dlgs.CShareCompletePatternDlg.problem_sharing": {
+    "en": "There was a problem sharing this image.",
+    "fr": "Un problème est survenu lors du partage de cette image.",
+    "de": "Beim Teilen dieses Bildes ist ein Problem aufgetreten.",
+    "es": "Hubo un problema al compartir esta imagen.",
+    "ja": "画像を共有中に問題が発生しました。"
+  },
+  "_dlgs.CShareCompletePatternDlg.please_wait": {
+    "en": "Please wait...",
+    "fr": "Veuillez patienter...",
+    "de": "Bitte warten...",
+    "es": "Por favor espera...",
+    "ja": "お待ちください..."
+  },
+  "_dlgs.CShareCompletePatternDlg.creating_animation": {
+    "en": "Creating animation",
+    "fr": "Création de l’animation",
+    "de": "Animation wird erstellt",
+    "es": "Creando animación",
+    "ja": "アニメーションを作成中"
+  },
+  "_shared.collectors_edition": {
+    "en": "Collector's Edition",
+    "fr": "Édition Collector",
+    "de": "Sammlerausgabe",
+    "es": "Edición Coleccionista",
+    "ja": "コレクターズ版"
+  },
+  "_dlgs.CCollectorPromoDlg_mc.new_set": {
+    "en": "New Collector's Edition set",
+    "fr": "Nouvelle Édition Collector",
+    "de": "Neue Sammlerausgabe",
+    "es": "Nueva Edición Coleccionista",
+    "ja": "新しいコレクターズ版セット"
+  },
+  "_dlgs.CCollectorPromoDlg_mc.one_week_only": {
+    "en": "{setname:Bad Doggoes} is in stores for 1 week only and then gone forever!",
+    "fr": "{setname:Bad Doggoes} est disponible pendant 1 semaine seulement, puis disparaît pour toujours !",
+    "de": "{setname:Bad Doggoes} ist nur 1 Woche erhältlich und danach für immer weg!",
+    "es": "¡{setname:Bad Doggoes} está en la tienda solo por 1 semana y luego desaparece para siempre!",
+    "ja": "{setname:Bad Doggoes} は1週間だけ販売。今後入手不可！"
+  },
+  "_dlgs.CCollectorPromoDlg_mc.get_before_gone": {
+    "en": "Get it before it's gone!",
+    "fr": "Prenez-le avant qu’il ne disparaisse !",
+    "de": "Sichere es dir, bevor es weg ist!",
+    "es": "¡Consíguelo antes de que desaparezca!",
+    "ja": "なくなる前に手に入れよう！"
+  },
+  "_shared.sale.heading.on_sale": {
+    "en": "{sets} on SALE!",
+    "fr": "{sets} en PROMOTION !",
+    "de": "{sets} im ANGEBOT!",
+    "es": "¡{sets} en OFERTA!",
+    "ja": "{sets} セール中！"
+  },
+  "_shared.sale.heading.available": {
+    "en": "{sets} Available!",
+    "fr": "{sets} disponibles !",
+    "de": "{sets} verfügbar!",
+    "es": "¡{sets} disponibles!",
+    "ja": "{sets} が利用可能！"
+  },
+  "_shared.sale.heading.back": {
+    "en": "{sets} Back in the Store!",
+    "fr": "{sets} de retour en magasin !",
+    "de": "{sets} zurück im Shop!",
+    "es": "¡{sets} han vuelto a la tienda!",
+    "ja": "{sets} がストアに戻りました！"
+  },
+  "_shared.sale.heading.last_chance": {
+    "en": "Last Chance to get {sets}!",
+    "fr": "Dernière chance d’obtenir {sets} !",
+    "de": "Letzte Chance, {sets} zu bekommen!",
+    "es": "¡Última oportunidad para conseguir {sets}!",
+    "ja": "{sets} を入手できる最後のチャンス！"
+  },
+  "_shared.sale.set_singular": {
+    "en": "Pattern Set",
+    "fr": "Lot de motifs",
+    "de": "Musterset",
+    "es": "Conjunto de patrones",
+    "ja": "パターンセット"
+  },
+  "_shared.sale.set_plural": {
+    "en": "Pattern Sets",
+    "fr": "Lots de motifs",
+    "de": "Mustersets",
+    "es": "Conjuntos de patrones",
+    "ja": "パターンセット"
+  },
+  "_shared.sale.new_set_singular": {
+    "en": "New Pattern Set",
+    "fr": "Nouveau lot de motifs",
+    "de": "Neues Musterset",
+    "es": "Nuevo conjunto de patrones",
+    "ja": "新しいパターンセット"
+  },
+  "_shared.sale.new_set_plural": {
+    "en": "New Pattern Sets",
+    "fr": "Nouveaux lots de motifs",
+    "de": "Neue Mustersets",
+    "es": "Nuevos conjuntos de patrones",
+    "ja": "新しいパターンセット"
+  },
+  "CSetPromoDlg_mc.go_to_store": {
+    "en": "Go to Store...",
+    "fr": "Aller à la boutique...",
+    "de": "Zum Shop...",
+    "es": "Ir a la tienda...",
+    "ja": "ストアへ..."
+  },
+  "_dlgs.CSendCrossStitch_mc.title": {
+    "en": "Send a Pattern to your friends...",
+    "fr": "Envoyer un motif à vos amis...",
+    "de": "Ein Muster an deine Freunde senden...",
+    "es": "Enviar un patrón a tus amigos...",
+    "ja": "友達にパターンを送る..."
+  },
+  "_dlgs.CSendCrossStitch_mc.prompt_all": {
+    "en": "Which pattern would you like to send to your friends?",
+    "fr": "Quel motif souhaitez-vous envoyer à vos amis ?",
+    "de": "Welches Muster möchtest du an deine Freunde senden?",
+    "es": "¿Qué patrón deseas enviar a tus amigos?",
+    "ja": "どのパターンを友達に送りますか？"
+  },
+  "_dlgs.CSendCrossStitch_mc.prompt_name": {
+    "en": "Which pattern would you like to send to {name}?",
+    "fr": "Quel motif souhaitez-vous envoyer à {name} ?",
+    "de": "Welches Muster möchtest du an {name} senden?",
+    "es": "¿Qué patrón deseas enviar a {name}?",
+    "ja": "どのパターンを{name}に送りますか？"
+  },
+  "_dlgs.CSendCrossStitch_mc.only_own_photos": {
+    "en": "(You can only share patterns made from your own images)",
+    "fr": "(Vous ne pouvez partager que des motifs créés à partir de vos propres photos)",
+    "de": "(Du kannst nur Muster teilen, die aus deinen eigenen Fotos erstellt wurden)",
+    "es": "(Solo puedes compartir patrones hechos con tus propias fotos)",
+    "ja": "（自分の写真から作ったパターンのみ共有できます）"
+  },
+  "_dlgs.CSendToMany_mc.select_friends": {
+    "en": "Which friends would you like to share this Cross-Stitch with?",
+    "fr": "Avec quels amis souhaitez-vous partager ce point de croix ?",
+    "de": "Mit welchen Freunden möchtest du dieses Kreuzstich teilen?",
+    "es": "¿Con qué amigos deseas compartir este punto de cruz?",
+    "ja": "このクロスステッチを誰と共有しますか？"
+  },
+  "_dlgs.CSendToMany_mc.send": {
+    "en": "Send",
+    "fr": "Envoyer",
+    "de": "Senden",
+    "es": "Enviar",
+    "ja": "送信"
+  },
+  "_shared.CSendToMany_mc": {
+    "en": "Select all",
+    "fr": "Tout sélectionner",
+    "de": "Alle auswählen",
+    "es": "Seleccionar todo",
+    "ja": "全て選択"
+  },
+  "_dlgs.CSetLanguageDlg_mc.title": {
+    "en": "Set language",
+    "fr": "Définir la langue",
+    "de": "Sprache einstellen",
+    "es": "Establecer idioma",
+    "ja": "言語を設定"
+  },
+  "_dlgs.CSetLanguageDlg_mc.prompt": {
+    "en": "Select your preferred language:",
+    "fr": "Sélectionnez votre langue préférée :",
+    "de": "Wählen Sie Ihre bevorzugte Sprache:",
+    "es": "Selecciona tu idioma preferido:",
+    "ja": "希望する言語を選択してください："
+  },
+  "_dlgs.CWelcomeScreen.title": {
+    "en": "Welcome",
+    "fr": "Bienvenue",
+    "de": "Willkommen",
+    "es": "Bienvenido",
+    "ja": "ようこそ"
+  },
+  "_dlgs.CWelcomeScreen.open_new": {
+    "en": "Open new pattern",
+    "fr": "Ouvrir un nouveau motif",
+    "de": "Neues Muster öffnen",
+    "es": "Abrir nuevo patrón",
+    "ja": "新しいパターンを開く"
+  },
+  "_dlgs.CWelcomeScreen.create_new": {
+    "en": "Create new pattern",
+    "fr": "Créer un nouveau motif",
+    "de": "Neues Muster erstellen",
+    "es": "Crear nuevo patrón",
+    "ja": "新しいパターンを作成"
+  },
+  "_dlgs.CWelcomeScreen.buy_more": {
+    "en": "Buy more patterns",
+    "fr": "Acheter plus de motifs",
+    "de": "Mehr Muster kaufen",
+    "es": "Comprar más patrones",
+    "ja": "パターンを購入"
+  },
+  "_dlgs.CWelcomeScreen.prompt": {
+    "en": "What do you want to do?",
+    "fr": "Que voulez-vous faire ?",
+    "de": "Was möchten Sie tun?",
+    "es": "¿Qué quieres hacer?",
+    "ja": "何をしますか？"
+  },
+  "_dlgs.CStoreDlg.title": {
+    "en": "Pattern Store",
+    "fr": "Boutique de motifs",
+    "de": "Musterladen",
+    "es": "Tienda de patrones",
+    "ja": "パターンストア"
+  },
+  "_dlgs.CStoreDlg.preview_hint": {
+    "en": "Click any set below to see a preview",
+    "fr": "Cliquez sur un lot ci-dessous pour prévisualiser",
+    "de": "Klicken Sie unten auf ein Set, um eine Vorschau zu sehen",
+    "es": "Haz clic en cualquier conjunto para ver una vista previa",
+    "ja": "セットをクリックするとプレビューを表示します"
+  },
+  "_dlgs.CStoreDlg.none_available": {
+    "en": "You already own all the currently available sets",
+    "fr": "Vous possédez déjà tous les lots actuellement disponibles",
+    "de": "Sie besitzen bereits alle derzeit verfügbaren Sets",
+    "es": "Ya posees todos los conjuntos disponibles actualmente",
+    "ja": "現在入手可能なセットはすべて所有しています"
+  },
+  "_dlgs.CStoreDlg.cash_balance": {
+    "en": "Cash balance:",
+    "fr": "Solde Cash :",
+    "de": "Cash:",
+    "es": "Cash:",
+    "ja": "キャッシュ："
+  },
+  "_dlgs.CStoreDlg.get_cash": {
+    "en": "Get more cash...",
+    "fr": "Obtenir plus de Cash...",
+    "de": "Mehr Cash holen...",
+    "es": "Obtener más Cash...",
+    "ja": "キャッシュを追加..."
+  },
+  "_dlgs.CStoreDlg.buy": {
+    "en": "Buy",
+    "fr": "Acheter",
+    "de": "Kaufen",
+    "es": "Comprar",
+    "ja": "購入"
+  },
+  "_shared.banner.NEW": {
+    "en": "NEW!",
+    "fr": "NOUVEAU !",
+    "de": "NEU!",
+    "es": "¡NUEVO!",
+    "ja": "新作！"
+  },
+  "_shared.banner.limited": {
+    "en": "Limited Edition",
+    "fr": "Édition limitée",
+    "de": "Limitierte Edition",
+    "es": "Edición limitada",
+    "ja": "限定版"
+  },
+  "_shared.banner.seasonal": {
+    "en": "Seasonal",
+    "fr": "Saisonnier",
+    "de": "Saisonal",
+    "es": "Estacional",
+    "ja": "季節限定"
+  },
+  "_shared.banner.weekly": {
+    "en": "WEEKLY DEAL",
+    "fr": "OFFRE HEBDO",
+    "de": "WOCHENANGEBOT",
+    "es": "OFERTA SEMANAL",
+    "ja": "週間セール"
+  },
+  "_shared.banner.weekend": {
+    "en": "WEEKEND SALE",
+    "fr": "PROMO WEEK-END",
+    "de": "WOCHENEND-SALE",
+    "es": "OFERTA FINDE",
+    "ja": "週末セール"
+  },
+  "_shared.banner.todays_deal": {
+    "en": "TODAY'S DEAL",
+    "fr": "OFFRE DU JOUR",
+    "de": "TAGES-DEAL",
+    "es": "OFERTA HOY",
+    "ja": "本日の特価"
+  },
+  "_shared.banner.flash": {
+    "en": "FLASH SALE!",
+    "fr": "VENTE FLASH !",
+    "de": "FLASH-SALE!",
+    "es": "¡VENTA FLASH!",
+    "ja": "フラッシュセール！"
+  },
+  "_shared.banner.black_friday": {
+    "en": "BLACK FRIDAY!",
+    "fr": "BLACK FRIDAY !",
+    "de": "BLACK FRIDAY!",
+    "es": "¡BLACK FRIDAY!",
+    "ja": "ブラックフライデー！"
+  },
+  "_shared.banner.gone_soon": {
+    "en": "Gone soon!",
+    "fr": "Bientôt parti !",
+    "de": "Bald weg!",
+    "es": "¡Se acaba pronto!",
+    "ja": "まもなく終了！"
+  },
+  "_dlgs.CSetPreview_mc.hide_set": {
+    "en": "Hide this set",
+    "fr": "Masquer ce set",
+    "de": "Set ausblenden",
+    "es": "Ocultar este set",
+    "ja": "このセットを非表示"
+  },
+  "_dlgs.CSetPreview_mc.add_favourite": {
+    "en": "Add to favourites",
+    "fr": "Ajouter aux favoris",
+    "de": "Zu Favoriten",
+    "es": "Añadir a favoritos",
+    "ja": "お気に入りに追加"
+  },
+  "_shared.gallery.empty": {
+    "en": "Your completed puzzles will appear here...",
+    "fr": "Vos puzzles terminés apparaîtront ici...",
+    "de": "Ihre fertigen Rätsel erscheinen hier...",
+    "es": "Tus rompecabezas completados aparecerán aquí...",
+    "ja": "完成したパズルがここに表示されます..."
+  },
+  "inGame.stitches_remaining": {
+    "en": "Stitches remaining: {value:999}",
+    "fr": "Points restants : {value:999}",
+    "de": "Verbleibende Stiche: {value:999}",
+    "es": "Puntos restantes: {value:999}",
+    "ja": "残りステッチ数：{value:999}"
+  },
+  "inGame.mistakes": {
+    "en": "Mistakes: {value:999}",
+    "fr": "Erreurs : {value:999}",
+    "de": "Fehler: {value:999}",
+    "es": "Errores: {value:999}",
+    "ja": "間違い：{value:999}"
+  },
+  "inGame.zoom": {
+    "en": "Zoom",
+    "fr": "Zoom",
+    "de": "Zoom",
+    "es": "Zoom",
+    "ja": "ズーム"
+  },
+  "inGame.timer_paused": {
+    "en": "Paused",
+    "fr": "En pause",
+    "de": "Pausiert",
+    "es": "Pausado",
+    "ja": "一時停止"
+  },
+  "inGame.go_online": {
+    "en": "Go online",
+    "fr": "Se connecter",
+    "de": "Online gehen",
+    "es": "Conectarse",
+    "ja": "オンラインへ"
+  },
+  "inGame.playing_offline": {
+    "en": "Playing offline",
+    "fr": "En mode hors-ligne",
+    "de": "Offline spielen",
+    "es": "Jugando sin conexión",
+    "ja": "オフラインでプレイ中"
+  },
+  "_tutorial.move_with_2_fingers": {
+    "en": "Move with 2 fingers",
+    "fr": "Déplacer avec 2 doigts",
+    "de": "Mit 2 Fingern bewegen",
+    "es": "Mover con 2 dedos",
+    "ja": "2本指で移動"
+  },
+  "tutorial.howToPlay.welcome": {
+    "en": "Welcome to Cross-Stitch World!",
+    "fr": "Bienvenue dans Cross-Stitch World !",
+    "de": "Willkommen bei Cross-Stitch World!",
+    "es": "¡Bienvenido a Cross-Stitch World!",
+    "ja": "クロスステッチワールドへようこそ！"
+  },
+  "tutorial.howToPlay.finish_help": {
+    "en": "As you can see, this cross-stitch is mostly completed, help us finish it!",
+    "fr": "Comme vous pouvez le voir, ce point de croix est presque terminé, aidez-nous à le finir !",
+    "de": "Wie Sie sehen, ist dieses Kreuzstichbild fast fertig. Helfen Sie uns, es zu vollenden!",
+    "es": "Como puedes ver, este punto de cruz está casi terminado, ¡ayúdanos a terminarlo!",
+    "ja": "ご覧のとおり、このクロスステッチはほとんど完成しています。仕上げを手伝ってください！"
+  },
+  "tutorial.howToPlay.select_zoom_tool": {
+    "en": "Tap here to select the zoom tool",
+    "fr": "Appuyez ici pour sélectionner l’outil de zoom",
+    "de": "Tippen Sie hier, um das Zoomwerkzeug auszuwählen",
+    "es": "Toca aquí para seleccionar la herramienta de zoom",
+    "ja": "ここをタップしてズームツールを選択します"
+  },
+  "tutorial.howToPlay.tap_to_zoom": {
+    "en": "Now tap here to zoom into this area of the cross-stitch",
+    "fr": "Appuyez ici pour zoomer sur cette zone du point de croix",
+    "de": "Tippen Sie hier, um in diesen Bereich des Kreuzstichs zu zoomen",
+    "es": "Toca aquí para hacer zoom en esta área del punto de cruz",
+    "ja": "ここをタップしてこの部分にズームしてください"
+  },
+  "tutorial.howToPlay.zoomed_in_view": {
+    "en": "Now that you've zoomed in you can see where the stitches need to go...",
+    "fr": "En zoomant, vous pouvez voir où placer les points…",
+    "de": "Jetzt, wo Sie herangezoomt haben, sehen Sie, wo die Stiche hin müssen…",
+    "es": "Ahora que has hecho zoom, puedes ver dónde van los puntos…",
+    "ja": "ズームすると、ステッチを入れる場所がわかります…"
+  },
+  "tutorial.howToPlay.open_threads": {
+    "en": "Tapping here will open your threads panel",
+    "fr": "Appuyez ici pour ouvrir votre panneau de fils",
+    "de": "Tippen Sie hier, um das Fadenfeld zu öffnen",
+    "es": "Toca aquí para abrir el panel de hilos",
+    "ja": "ここをタップするとスレッドパネルが開きます"
+  },
+  "tutorial.howToPlay.select_color": {
+    "en": "Tap here to select this colored thread...",
+    "fr": "Appuyez ici pour sélectionner ce fil coloré…",
+    "de": "Tippen Sie hier, um diese Fadenfarbe auszuwählen…",
+    "es": "Toca aquí para seleccionar este hilo de color…",
+    "ja": "ここをタップしてこの色の糸を選びます…"
+  },
+  "tutorial.howToPlay.color_highlight": {
+    "en": "The stitches for this color have been highlighted!",
+    "fr": "Les points de cette couleur ont été mis en évidence !",
+    "de": "Die Stiche dieser Farbe wurden hervorgehoben!",
+    "es": "¡Los puntos de este color se han resaltado!",
+    "ja": "この色のステッチがハイライトされました！"
+  },
+  "tutorial.howToPlay.fill_stitches": {
+    "en": "Tap the screen here and move your finger over the stitches to fill them in",
+    "fr": "Touchez ici puis faites glisser votre doigt sur les points pour les remplir",
+    "de": "Tippen Sie hier und ziehen Sie den Finger über die Stiche, um sie auszufüllen",
+    "es": "Toca aquí y desliza tu dedo sobre los puntos para rellenarlos",
+    "ja": "ここをタップし、指を動かしてステッチを埋めてください"
+  },
+  "tutorial.howToPlay.select_another": {
+    "en": "Now select another thread color...",
+    "fr": "Sélectionnez maintenant une autre couleur de fil…",
+    "de": "Wählen Sie nun eine andere Fadenfarbe…",
+    "es": "Ahora selecciona otro color de hilo…",
+    "ja": "次の色の糸を選んでください…"
+  },
+  "tutorial.howToPlay.fill_more": {
+    "en": "Fill in these stitches, tap and move your finger over the squares.",
+    "fr": "Remplissez ces points, touchez et faites glisser votre doigt sur les carrés.",
+    "de": "Füllen Sie diese Stiche, tippen und ziehen Sie über die Kästchen.",
+    "es": "Rellena estos puntos, toca y mueve tu dedo sobre los cuadros.",
+    "ja": "ここをタップし、指を動かしてステッチを埋めてください。"
+  },
+  "tutorial.howToPlay.drag_screen_one": {
+    "en": "Use one finger to drag the pattern around",
+    "fr": "Déplacez le motif avec un doigt",
+    "de": "Mit einem Finger das Muster verschieben",
+    "es": "Usa un dedo para mover el patrón",
+    "ja": "1本指でパターンを移動できます"
+  },
+  "tutorial.howToPlay.drag_screen_two": {
+    "en": "Use two fingers to drag the pattern around",
+    "fr": "Déplacez le motif avec deux doigts",
+    "de": "Mit zwei Fingern das Muster verschieben",
+    "es": "Usa dos dedos para mover el patrón",
+    "ja": "2本指でパターンを移動できます"
+  },
+  "tutorial.howToPlay.drag_tip": {
+    "en": "Great, that's really useful for moving around, so remember to use it",
+    "fr": "Parfait, c’est très utile pour se déplacer, pensez-y !",
+    "de": "Super, das ist sehr hilfreich zum Bewegen. Nutzen Sie es!",
+    "es": "Genial, es muy útil para moverse, ¡recuerda usarlo!",
+    "ja": "とても便利なので覚えておいてください！"
+  },
+  "tutorial.howToPlay.finish_cross": {
+    "en": "See if you can finish off this cross-stitch now...",
+    "fr": "Essayez de terminer ce point de croix…",
+    "de": "Versuchen Sie jetzt, dieses Kreuzstichbild zu beenden…",
+    "es": "Intenta terminar este punto de cruz ahora…",
+    "ja": "では、仕上げてみましょう…"
+  },
+  "tutorial.howToPlay.more_this_way": {
+    "en": "There are more stitches this way, use 2 fingers to scroll here",
+    "fr": "D’autres points sont par ici, utilisez 2 doigts pour vous déplacer",
+    "de": "Hier sind weitere Stiche, mit 2 Fingern scrollen",
+    "es": "Hay más puntos por aquí, usa 2 dedos para moverte",
+    "ja": "この先にもステッチがあります。2本指で移動してください"
+  },
+  "tutorial.howToPlay.zoom_out": {
+    "en": "All done! Let's zoom out and see what it looks like!",
+    "fr": "C’est fini ! Dézoomez pour voir le résultat !",
+    "de": "Fertig! Zoomen wir heraus und sehen uns das Ergebnis an!",
+    "es": "¡Listo! ¡Alejemos la vista para ver cómo quedó!",
+    "ja": "完成です！ズームアウトして見てみましょう！"
+  },
+  "tutorial.howToPlay.zoom_out_button": {
+    "en": "Tap here at any time to zoom out and see the whole cross-stitch",
+    "fr": "Touchez ici à tout moment pour dézoomer et voir l’ensemble",
+    "de": "Hier tippen, um jederzeit herauszuzoomen und alles zu sehen",
+    "es": "Toca aquí en cualquier momento para alejar y ver todo",
+    "ja": "ここをタップすると全体を表示できます"
+  },
+  "tutorial.howToPlay.collect_rewards": {
+    "en": "Good job! Now let's collect our rewards!",
+    "fr": "Bravo ! Maintenant, collectons nos récompenses !",
+    "de": "Gut gemacht! Jetzt holen wir unsere Belohnungen ab!",
+    "es": "¡Buen trabajo! ¡Ahora reclamemos nuestras recompensas!",
+    "ja": "よくできました！報酬を受け取りましょう！"
+  },
+  "tutorial.unpicker.mistake": {
+    "en": "Whoops, looks like you made a mistake...",
+    "fr": "Oups, on dirait que vous avez fait une erreur…",
+    "de": "Ups, sieht so aus, als hätten Sie einen Fehler gemacht…",
+    "es": "Ups, parece que has cometido un error…",
+    "ja": "おっと、間違えてしまったようですね…"
+  },
+  "tutorial.unpicker.select": {
+    "en": "Not to worry, select the unpicker tool...",
+    "fr": "Pas d’inquiétude, sélectionnez l’outil de découse…",
+    "de": "Kein Problem, wählen Sie das Auftrenner-Werkzeug…",
+    "es": "No te preocupes, selecciona la herramienta de descoser…",
+    "ja": "心配いりません、ほどきツールを選びましょう…"
+  },
+  "tutorial.unpicker.tap": {
+    "en": "Tap here to unpick this stitch",
+    "fr": "Touchez ici pour découdre ce point",
+    "de": "Tippen Sie hier, um diesen Stich zu lösen",
+    "es": "Toca aquí para deshacer este punto",
+    "ja": "ここをタップしてこのステッチをほどきます"
+  },
+  "tutorial.unpicker.repair": {
+    "en": "Now you can select the right color thread and re-stitch this",
+    "fr": "Vous pouvez maintenant choisir la bonne couleur et refaire ce point",
+    "de": "Jetzt können Sie die richtige Farbe wählen und den Stich erneut setzen",
+    "es": "Ahora puedes elegir el color correcto y volver a coserlo",
+    "ja": "正しい色の糸を選んで、もう一度ステッチできます"
+  },
+  "tutorial.afterFirst.ready": {
+    "en": "Well done! Ready for another?",
+    "fr": "Bien joué ! Prêt pour un autre ?",
+    "de": "Gut gemacht! Bereit für den nächsten?",
+    "es": "¡Bien hecho! ¿Listo para otro?",
+    "ja": "よくできました！次の作品に挑戦しますか？"
+  },
+  "tutorial.afterFirst.menu": {
+    "en": "This menu contains lots of useful options...",
+    "fr": "Ce menu contient plein d'options utiles…",
+    "de": "Dieses Menü enthält viele nützliche Optionen…",
+    "es": "Este menú contiene muchas opciones útiles…",
+    "ja": "このメニューには便利な機能がたくさんあります…"
+  },
+  "tutorial.afterFirst.open": {
+    "en": "Tap here to open another cross-stitch pattern",
+    "fr": "Touchez ici pour ouvrir un autre modèle de point de croix",
+    "de": "Tippen Sie hier, um ein weiteres Kreuzstichmuster zu öffnen",
+    "es": "Toca aquí para abrir otro patrón de punto de cruz",
+    "ja": "ここをタップして別のクロスステッチ作品を開きます"
+  },
+  "tutorial.afterFirst.collection": {
+    "en": "Welcome to your Cross-Stitch pattern collection!",
+    "fr": "Bienvenue dans votre collection de modèles de point de croix !",
+    "de": "Willkommen in Ihrer Kreuzstichmuster-Sammlung!",
+    "es": "¡Bienvenido a tu colección de patrones!",
+    "ja": "クロスステッチ作品のコレクションへようこそ！"
+  },
+  "tutorial.afterFirst.thousands": {
+    "en": "We've started you off with a few patterns to begin with, but there are thousands more available!",
+    "fr": "Nous avons commencé avec quelques modèles, mais des milliers d’autres sont disponibles !",
+    "de": "Wir haben Ihnen einige Muster zum Start gegeben, aber es gibt Tausende weitere!",
+    "es": "Te hemos dado algunos patrones iniciales, ¡pero hay miles más disponibles!",
+    "ja": "最初にいくつか用意していますが、何千もの作品が利用できます！"
+  },
+  "tutorial.afterFirst.pick": {
+    "en": "Select a pattern you'd like to play...",
+    "fr": "Sélectionnez un modèle que vous souhaitez réaliser…",
+    "de": "Wählen Sie ein Muster, das Sie spielen möchten…",
+    "es": "Selecciona un patrón que quieras realizar…",
+    "ja": "プレイしたい作品を選びましょう…"
+  },
+  "tutorial.afterFirst.start": {
+    "en": "Then tap here to start playing!",
+    "fr": "Puis touchez ici pour commencer !",
+    "de": "Dann hier tippen, um zu beginnen!",
+    "es": "Luego toca aquí para empezar a jugar",
+    "ja": "そしてここをタップして開始しましょう！"
+  },
+  "tutorial.afterFirst.remember": {
+    "en": "Remember to zoom in to the cross-stitch to start working on it",
+    "fr": "N’oubliez pas de zoomer pour commencer à travailler dessus",
+    "de": "Denken Sie daran, hereinzuzoomen, um daran zu arbeiten",
+    "es": "Recuerda hacer zoom para empezar a trabajar en él",
+    "ja": "作業を始める前に拡大することを忘れないでください"
+  },
+  "tutorial.mobileTransition.welcomeBack": {
+    "en": "Welcome back to Cross-Stitch World!",
+    "fr": "Bon retour dans Cross-Stitch World !",
+    "de": "Willkommen zurück in Cross-Stitch World!",
+    "es": "¡Bienvenido de nuevo a Cross-Stitch World!",
+    "ja": "クロスステッチワールドへお帰りなさい！"
+  },
+  "tutorial.mobileTransition.similar": {
+    "en": "You'll find our Cross-stitch App is very similar to what you're used to in a web browser",
+    "fr": "Vous verrez que notre application est très similaire à ce que vous connaissez dans un navigateur Web",
+    "de": "Unsere App ist sehr ähnlich zu der Version im Webbrowser, die Sie gewohnt sind",
+    "es": "Nuestra aplicación es muy similar a lo que estás acostumbrado en el navegador web",
+    "ja": "このアプリは、ウェブブラウザ版とほとんど同じ使い心地です"
+  },
+  "tutorial.mobileTransition.scroll": {
+    "en": "Except here you scroll around the screen using two fingers",
+    "fr": "Sauf qu’ici vous faites défiler l’écran avec deux doigts",
+    "de": "Nur hier bewegen Sie den Bildschirm mit zwei Fingern",
+    "es": "Excepto que aquí te desplazas usando dos dedos",
+    "ja": "ただしここでは、画面を2本指でスクロールします"
+  },
+  "tutorial.mobileTransition.drag": {
+    "en": "Use two fingers to drag the pattern around",
+    "fr": "Utilisez deux doigts pour déplacer le motif",
+    "de": "Ziehen Sie das Muster mit zwei Fingern über den Bildschirm",
+    "es": "Usa dos dedos para mover el patrón",
+    "ja": "2本指でパターンを動かしてください"
+  },
+  "tutorial.mobileTransition.gotIt": {
+    "en": "You've got it!",
+    "fr": "C’est ça !",
+    "de": "Genau!",
+    "es": "¡Eso es!",
+    "ja": "その調子！"
+  },
+  "tutorial.store.limited": {
+    "en": "Your pattern collection is a little limited at the moment - let's work on that",
+    "fr": "Votre collection de modèles est encore un peu limitée pour le moment — travaillons là-dessus",
+    "de": "Deine Mustersammlung ist im Moment noch etwas klein — daran arbeiten wir jetzt",
+    "es": "Tu colección de patrones es un poco limitada por ahora — trabajemos en eso",
+    "ja": "今はコレクションが少し少ないので、増やしていきましょう"
+  },
+  "tutorial.store.visitStore": {
+    "en": "Select here to visit the Pattern Store...",
+    "fr": "Touchez ici pour aller à la Boutique de modèles...",
+    "de": "Tippe hier, um den Muster-Shop zu besuchen...",
+    "es": "Toca aquí para visitar la Tienda de patrones...",
+    "ja": "ここをタップしてパターンストアに行きましょう..."
+  },
+  "tutorial.store.explainStore": {
+    "en": "This is the Pattern Store with thousands of beautiful patterns available",
+    "fr": "Voici la Boutique de modèles avec des milliers de magnifiques modèles disponibles",
+    "de": "Dies ist der Muster-Shop mit Tausenden wunderschöner Muster",
+    "es": "Esta es la Tienda de patrones, con miles de patrones hermosos disponibles",
+    "ja": "ここはパターンストアで、何千もの美しい図案が購入できます"
+  },
+  "tutorial.store.goodNews": {
+    "en": "Good news - you already have enough Cross-Stitch cash to buy some of these sets!",
+    "fr": "Bonne nouvelle — vous avez déjà assez de Cash pour acheter certains de ces ensembles !",
+    "de": "Gute Neuigkeiten — du hast bereits genug Cash, um einige dieser Sets zu kaufen!",
+    "es": "¡Buenas noticias — ya tienes suficiente Cash para comprar algunos de estos sets!",
+    "ja": "いいニュースです — いくつかのセットを買うだけのキャッシュがあります！"
+  },
+  "tutorial.store.browseSpend": {
+    "en": "You have {amount} Cash to spend, so have a browse and start building your pattern collection",
+    "fr": "Vous avez {amount} Cash à dépenser, alors parcourez et commencez à agrandir votre collection",
+    "de": "Du hast {amount} Cash zum Ausgeben — stöbere und erweitere deine Sammlung",
+    "es": "Tienes {amount} Cash para gastar, así que explora y empieza a ampliar tu colección",
+    "ja": "{amount}キャッシュがありますので、ストアを見てコレクションを増やしましょう"
+  },
+  "tutorial.findStitch.intro": {
+    "en": "Did you know there's an easy way to find empty squares to color?",
+    "fr": "Saviez-vous qu’il existe un moyen simple de trouver les cases vides à remplir ?",
+    "de": "Wussten Sie, dass es eine einfache Möglichkeit gibt, leere Felder zum Ausfüllen zu finden?",
+    "es": "¿Sabías que hay una forma fácil de encontrar cuadrados vacíos para rellenar?",
+    "ja": "空いているマスを簡単に見つける方法があるのをご存知ですか？"
+  },
+  "tutorial.findStitch.hold": {
+    "en": "Just tap and HOLD on the color you're using...",
+    "fr": "Appuyez et MAINTENEZ simplement sur la couleur que vous utilisez…",
+    "de": "Tippen und HALTEN Sie einfach die Farbe, die Sie verwenden…",
+    "es": "Simplemente toca y MANTÉN pulsado el color que estás usando…",
+    "ja": "使っている色をタップして長押しするだけです…"
+  },
+  "tutorial.findStitch.result": {
+    "en": "...and the game will find the nearest empty square for you!",
+    "fr": "...et le jeu trouvera la case vide la plus proche pour vous !",
+    "de": "...und das Spiel findet für Sie das nächstgelegene leere Feld!",
+    "es": "...¡y el juego encontrará el cuadrado vacío más cercano por ti!",
+    "ja": "…すると、ゲームが最も近い空きマスを見つけてくれます！"
+  },
+  "_msg.session_expired.title": {
+    "en": "Session expired",
+    "fr": "Session expirée",
+    "de": "Sitzung abgelaufen",
+    "es": "Sesión expirada",
+    "ja": "セッションが期限切れです"
+  },
+  "_msg.session_expired.body": {
+    "en": "Your session has expired. This may be because you are playing on another device or have been offline for a while. The game will now reload.",
+    "fr": "Votre session a expiré. Cela peut être dû à un autre appareil ou à une période hors ligne. Le jeu va maintenant se recharger.",
+    "de": "Ihre Sitzung ist abgelaufen. Sie könnten auf einem anderen Gerät spielen oder längere Zeit offline gewesen sein. Das Spiel wird jetzt neu geladen.",
+    "es": "Tu sesión ha expirado. Esto puede deberse a que estás jugando en otro dispositivo o has estado sin conexión un tiempo. El juego se recargará ahora.",
+    "ja": "セッションが期限切れです。他の端末でプレイしているか、しばらくオフラインだった可能性があります。ゲームを再読み込みします。"
+  },
+  "_msg.storage_error.title": {
+    "en": "Out of Storage Space!",
+    "fr": "Plus d’espace de stockage !",
+    "de": "Kein Speicherplatz mehr!",
+    "es": "¡Sin espacio de almacenamiento!",
+    "ja": "ストレージ容量が不足しています！"
+  },
+  "_msg.storage_error.body": {
+    "en": "Your device has no storage space remaining. This will cause problems with this game. Please free up some storage, or contact our support staff (from the in-game menu) for assistance.",
+    "fr": "Votre appareil n’a plus d’espace de stockage. Cela peut causer des problèmes avec le jeu. Veuillez libérer de l’espace ou contacter notre support (depuis le menu du jeu).",
+    "de": "Auf Ihrem Gerät ist kein Speicherplatz mehr frei. Dies kann Probleme im Spiel verursachen. Bitte geben Sie Speicherplatz frei oder kontaktieren Sie unseren Support über das In-Game-Menü.",
+    "es": "Tu dispositivo no tiene espacio de almacenamiento. Esto puede causar problemas en el juego. Libera espacio o contacta con nuestro soporte (desde el menú del juego).",
+    "ja": "端末の空き容量がありません。これはゲームに問題を引き起こす可能性があります。空き容量を確保するか、ゲーム内メニューからサポートにお問い合わせください。"
+  },
+  "_msg.no_internet.title": {
+    "en": "No internet",
+    "fr": "Pas d’Internet",
+    "de": "Keine Internetverbindung",
+    "es": "Sin Internet",
+    "ja": "インターネット未接続"
+  },
+  "_msg.no_internet.body": {
+    "en": "Please check your internet connection and try again",
+    "fr": "Veuillez vérifier votre connexion Internet et réessayer",
+    "de": "Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut",
+    "es": "Comprueba tu conexión a Internet y vuelve a intentarlo",
+    "ja": "インターネット接続を確認して、再度お試しください"
+  },
+  "_msg.error.title": {
+    "en": "Error",
+    "fr": "Erreur",
+    "de": "Fehler",
+    "es": "Error",
+    "ja": "エラー"
+  },
+  "_msg.error.facebook": {
+    "en": "We were unable to connect to Facebook.",
+    "fr": "Connexion à Facebook impossible.",
+    "de": "Verbindung zu Facebook konnte nicht hergestellt werden.",
+    "es": "No pudimos conectar con Facebook.",
+    "ja": "Facebookに接続できませんでした。"
+  },
+  "_msg.login_failed": {
+    "en": "Login failed, continuing as guest.",
+    "fr": "Échec de connexion. Vous jouerez en invité.",
+    "de": "Anmeldung fehlgeschlagen. Fortfahren als Gast.",
+    "es": "Error al iniciar sesión, continuando como invitado.",
+    "ja": "ログインに失敗しました。ゲストとして続行します。"
+  },
+  "_msg.disconnect_fail": {
+    "en": "We were unable to disconnect your player account at this time. Please try again later.",
+    "fr": "Impossible de déconnecter votre compte pour le moment. Veuillez réessayer plus tard.",
+    "de": "Ihr Konto konnte derzeit nicht getrennt werden. Bitte versuchen Sie es später erneut.",
+    "es": "No pudimos desconectar tu cuenta ahora. Vuelve a intentarlo más tarde.",
+    "ja": "プレイヤーアカウントを今は切断できません。後でもう一度お試しください。"
+  },
+  "_msg.disconnect_success_title": {
+    "en": "Success!",
+    "fr": "Succès !",
+    "de": "Erfolg!",
+    "es": "¡Éxito!",
+    "ja": "成功！"
+  },
+  "_msg.disconnect_success": {
+    "en": "Your Cross-Stitch account has been successfully disconnected.",
+    "fr": "Votre compte Cross-Stitch a bien été déconnecté.",
+    "de": "Ihr Cross-Stitch-Konto wurde erfolgreich getrennt.",
+    "es": "Tu cuenta de Cross-Stitch se ha desconectado correctamente.",
+    "ja": "Cross-Stitchアカウントが正常に切断されました。"
+  },
+  "_msg.account_retrieve_fail": {
+    "en": "We were unable to retrieve your account. You can try again at any time by going to Settings on the main menu.",
+    "fr": "Impossible de récupérer votre compte. Vous pouvez réessayer à tout moment via les paramètres dans le menu principal.",
+    "de": "Ihr Konto konnte nicht abgerufen werden. Sie können es jederzeit über die Einstellungen im Hauptmenü erneut versuchen.",
+    "es": "No pudimos recuperar tu cuenta. Puedes intentarlo otra vez desde Ajustes en el menú principal.",
+    "ja": "アカウントを取得できませんでした。メインメニューの設定からいつでも再試行できます。"
+  },
+  "_msg.account_connect_fail": {
+    "en": "We were unable to connect your player account at this time. Please try again later.",
+    "fr": "Impossible de connecter votre compte pour le moment. Veuillez réessayer plus tard.",
+    "de": "Ihr Konto konnte derzeit nicht verbunden werden. Bitte versuchen Sie es später erneut.",
+    "es": "No pudimos conectar tu cuenta ahora. Vuelve a intentarlo más tarde.",
+    "ja": "今はプレイヤーアカウントを接続できません。後でもう一度お試しください。"
+  },
+  "_msg.connect_success": {
+    "en": "Successfully connected!",
+    "fr": "Connexion réussie !",
+    "de": "Erfolgreich verbunden!",
+    "es": "¡Conectado con éxito!",
+    "ja": "接続に成功しました！"
+  },
+  "_msg.save_complete.title": {
+    "en": "Save Complete",
+    "fr": "Enregistrement terminé",
+    "de": "Speichern abgeschlossen",
+    "es": "Guardado completo",
+    "ja": "保存が完了しました"
+  },
+  "_msg.save_complete.body": {
+    "en": "Your work has been saved successfully.",
+    "fr": "Votre travail a été enregistré avec succès.",
+    "de": "Ihre Arbeit wurde erfolgreich gespeichert.",
+    "es": "Tu trabajo se ha guardado correctamente.",
+    "ja": "作業内容は正常に保存されました。"
+  },
+  "_msg.loading": {
+    "en": "Loading...",
+    "fr": "Chargement...",
+    "de": "Wird geladen...",
+    "es": "Cargando...",
+    "ja": "読み込み中..."
+  },
+  "_msg.please_wait": {
+    "en": "Please wait...",
+    "fr": "Veuillez patienter...",
+    "de": "Bitte warten...",
+    "es": "Por favor espera...",
+    "ja": "お待ちください..."
+  },
+  "_msg.transaction_body": {
+    "en": "Your transaction is currently in progress",
+    "fr": "Votre transaction est en cours",
+    "de": "Ihre Transaktion wird derzeit verarbeitet",
+    "es": "Tu transacción está en curso",
+    "ja": "取引を処理しています"
+  },
+  "_msg.fetching_image_body": {
+    "en": "Fetching image...",
+    "fr": "Récupération de l’image...",
+    "de": "Bild wird geladen...",
+    "es": "Obteniendo imagen...",
+    "ja": "画像を取得しています..."
+  },
+  "_msg.unable_to_share.title": {
+    "en": "Unable to Share",
+    "fr": "Impossible de partager",
+    "de": "Teilen nicht möglich",
+    "es": "No se puede compartir",
+    "ja": "共有できません"
+  },
+  "_msg.unable_to_share.body": {
+    "en": "There was a problem sharing this image, please check your connection.",
+    "fr": "Un problème est survenu lors du partage de cette image. Veuillez vérifier votre connexion.",
+    "de": "Beim Teilen dieses Bildes ist ein Problem aufgetreten. Bitte überprüfe deine Verbindung.",
+    "es": "Hubo un problema al compartir esta imagen. Por favor, revisa tu conexión.",
+    "ja": "画像を共有できませんでした。接続状況をご確認ください。"
+  },
+  "_msg.payment_complete.title": {
+    "en": "Thank you!",
+    "fr": "Merci !",
+    "de": "Danke!",
+    "es": "¡Gracias!",
+    "ja": "ありがとうございます！"
+  },
+  "_msg.payment_complete.body": {
+    "en": "A purchase you made earlier has been successfully completed!\n\n{amount} cash has been added to your account.",
+    "fr": "Un achat que vous aviez effectué a été finalisé avec succès !\n\n{amount} Cash a été ajouté à votre compte.",
+    "de": "Ein zuvor getätigter Kauf wurde erfolgreich abgeschlossen!\n\n{amount} Cash wurde deinem Konto gutgeschrieben.",
+    "es": "¡Una compra que realizaste anteriormente se ha completado con éxito!\n\n{amount} Cash se ha añadido a tu cuenta.",
+    "ja": "以前行った購入が正常に完了しました！\n\n{amount} キャッシュがあなたのアカウントに追加されました。"
+  },
+  "_msg.send.no_pattern_selected.title": {
+    "en": "No pattern selected",
+    "fr": "Aucun modèle sélectionné",
+    "de": "Kein Muster ausgewählt",
+    "es": "Ningún patrón seleccionado",
+    "ja": "パターンが選択されていません"
+  },
+  "_msg.send.no_pattern_selected.body": {
+    "en": "Please select a pattern to send.",
+    "fr": "Veuillez sélectionner un modèle à envoyer.",
+    "de": "Bitte wähle ein Muster zum Versenden aus.",
+    "es": "Selecciona un patrón para enviar.",
+    "ja": "送信するパターンを選択してください。"
+  },
+  "_msg.send.no_custom_patterns.body": {
+    "en": "You have not yet created any custom patterns to send to friends - try making some!",
+    "fr": "Vous n'avez pas encore créé de modèles personnalisés à envoyer à vos amis – essayez d’en créer !",
+    "de": "Du hast noch keine eigenen Muster erstellt, die du Freunden schicken kannst – probiere doch mal eines zu machen!",
+    "es": "Aún no has creado patrones personalizados para enviar a tus amigos. ¡Prueba a hacer algunos!",
+    "ja": "まだ友達に送れるカスタムパターンを作成していません。ぜひ作ってみてください！"
+  },
+  "_msg.send.success.body": {
+    "en": "Your cross-stitch has been sent!",
+    "fr": "Votre point de croix a été envoyé !",
+    "de": "Dein Kreuzstich wurde gesendet!",
+    "es": "¡Tu punto de cruz ha sido enviado!",
+    "ja": "クロスステッチを送信しました！"
+  },
+  "_msg.send.no_friends_selected.body": {
+    "en": "You haven't selected any friends!",
+    "fr": "Vous n'avez sélectionné aucun ami !",
+    "de": "Du hast keine Freunde ausgewählt!",
+    "es": "¡No has seleccionado a ningún amigo!",
+    "ja": "友達が選択されていません！"
+  },
+  "_msg.store.not_enough_cash.title": {
+    "en": "Not enough Cash!",
+    "fr": "Pas assez de cash !",
+    "de": "Nicht genug Cash!",
+    "es": "¡No tienes suficiente dinero!",
+    "ja": "キャッシュが足りません！"
+  },
+  "_msg.store.not_enough_cash.body": {
+    "en": "You do not currently have enough Cross-Stitch cash to purchase this set.\n\nWould you like to buy more cash now?",
+    "fr": "Vous n'avez actuellement pas assez de cash Cross-Stitch pour acheter cet ensemble.\n\nVoulez-vous acheter plus de cash maintenant ?",
+    "de": "Du hast derzeit nicht genug Cross-Stitch-Cash, um dieses Set zu kaufen.\n\nMöchtest du jetzt mehr Cash kaufen?",
+    "es": "Actualmente no tienes suficiente dinero de Cross-Stitch para comprar este set.\n\n¿Quieres comprar más ahora?",
+    "ja": "このセットを購入するためのクロスステッチキャッシュが不足しています。\n\n今すぐ追加で購入しますか？"
+  },
+  "_msg.store.confirm_purchase.title": {
+    "en": "Are you sure?",
+    "fr": "Êtes-vous sûr ?",
+    "de": "Bist du sicher?",
+    "es": "¿Estás seguro?",
+    "ja": "本当によろしいですか？"
+  },
+  "_msg.store.confirm_purchase.body": {
+    "en": "Buy the {set} set for {price} cash?",
+    "fr": "Acheter l’ensemble {set} pour {price} cash ?",
+    "de": "Das Set {set} für {price} Cash kaufen?",
+    "es": "¿Comprar el set {set} por {price} de cash?",
+    "ja": "{set} セットを {price} キャッシュで購入しますか？"
+  },
+  "_msg.store.purchase_success.title": {
+    "en": "Cross-Stitch set purchased!",
+    "fr": "Ensemble Cross-Stitch acheté !",
+    "de": "Cross-Stitch-Set gekauft!",
+    "es": "¡Set de Cross-Stitch comprado!",
+    "ja": "クロスステッチセットを購入しました！"
+  },
+  "_msg.store.purchase_success.body": {
+    "en": "These patterns have been added to your collection and marked as new.",
+    "fr": "Ces motifs ont été ajoutés à votre collection et marqués comme nouveaux.",
+    "de": "Diese Muster wurden deiner Sammlung hinzugefügt und als neu markiert.",
+    "es": "Estos patrones se han añadido a tu colección y marcados como nuevos.",
+    "ja": "これらのパターンはコレクションに追加され、新着として表示されます。"
+  },
+  "_msg.set_load_failed.body": {
+    "en": "Could not load puzzle set. Please check you are connected to the internet and try again.",
+    "fr": "Impossible de charger l’ensemble. Veuillez vérifier votre connexion Internet et réessayer.",
+    "de": "Das Set konnte nicht geladen werden. Bitte überprüfe deine Internetverbindung und versuche es erneut.",
+    "es": "No se pudo cargar el set. Por favor comprueba tu conexión a Internet e inténtalo de nuevo.",
+    "ja": "パズルセットを読み込めませんでした。インターネットに接続していることを確認し、もう一度お試しください。"
+  },
+  "_msg.unexpected_error": {
+    "en": "An unexpected error occurred - please try again.\n\nIf you continue to have problems please contact our support staff who will be happy to assist you.",
+    "fr": "Une erreur inattendue s’est produite — veuillez réessayer.\n\nSi le problème persiste, veuillez contacter notre équipe d’assistance qui se fera un plaisir de vous aider.",
+    "de": "Ein unerwarteter Fehler ist aufgetreten – bitte versuche es erneut.\n\nWenn das Problem weiterhin besteht, kontaktiere bitte unseren Support, der dir gerne weiterhilft.",
+    "es": "Se produjo un error inesperado; por favor inténtalo de nuevo.\n\nSi el problema continúa, contacta a nuestro equipo de soporte, que estará encantado de ayudarte.",
+    "ja": "予期しないエラーが発生しました。もう一度お試しください。\n\n問題が解決しない場合は、サポートスタッフまでお問い合わせください。喜んでお手伝いします。"
+  },
+  "_msg.reset_confirm.title": {
+    "en": "Confirm Reset",
+    "fr": "Confirmer la réinitialisation",
+    "de": "Zurücksetzen bestätigen",
+    "es": "Confirmar reinicio",
+    "ja": "リセットの確認"
+  },
+  "_msg.reset_confirm.body": {
+    "en": "Are you sure you want to reset this pattern? All your stitches will be unpicked.",
+    "fr": "Voulez-vous vraiment réinitialiser ce modèle ? Tous vos points seront supprimés.",
+    "de": "Möchten Sie dieses Muster wirklich zurücksetzen? Alle Stiche werden entfernt.",
+    "es": "¿Seguro que quieres reiniciar este patrón? Todos tus puntos serán deshechos.",
+    "ja": "このパターンをリセットしてもよろしいですか？すべてのステッチがほどかれます。"
+  },
+  "_msg.no_friends_found.body": {
+    "en": "You do not currently have any friends who play Cross-Stitch World. Invite some friends to play, and then try again.",
+    "fr": "Aucun de vos amis ne joue actuellement à Cross-Stitch World. Invitez des amis à jouer, puis réessayez.",
+    "de": "Derzeit spielt keiner deiner Freunde Cross-Stitch World. Lade einige Freunde ein und versuche es erneut.",
+    "es": "Actualmente no tienes amigos que jueguen Cross-Stitch World. Invita a algunos amigos y vuelve a intentarlo.",
+    "ja": "現在、Cross-Stitch World を遊んでいる友達はいません。友達を招待して、もう一度お試しください。"
+  },
+  "_msg.no_mistakes.title": {
+    "en": "No mistakes to unpick!",
+    "fr": "Aucune erreur à défaire !",
+    "de": "Keine Fehler zum Auftrennen!",
+    "es": "¡No hay errores que deshacer!",
+    "ja": "ほどく間違いはありません！"
+  },
+  "_msg.no_mistakes.body": {
+    "en": "If you make mistakes in your cross-stitch, you can use this tool to instantly unpick them all at once, for a few cash.",
+    "fr": "Si vous faites des erreurs, vous pouvez utiliser cet outil pour les défaire instantanément, pour un peu de cash.",
+    "de": "Wenn du Fehler machst, kannst du mit diesem Werkzeug alle auf einmal sofort auftrennen – für etwas Cash.",
+    "es": "Si cometes errores, puedes usar esta herramienta para deshacerlos todos al instante a cambio de un poco de dinero.",
+    "ja": "間違いをした場合、このツールを使うと少しのキャッシュで一度にすべてほどくことができます。"
+  },
+  "_msg.unpick_not_enough_cash.body": {
+    "en": "You do not have enough cash to unpick all these mistakes. Would you like to buy more cash now?",
+    "fr": "Vous n’avez pas assez de cash pour défaire toutes ces erreurs. Voulez-vous acheter plus de cash ?",
+    "de": "Du hast nicht genug Cash, um alle diese Fehler aufzutrennen. Möchtest du jetzt mehr Cash kaufen?",
+    "es": "No tienes suficiente dinero para deshacer todos estos errores. ¿Quieres comprar más ahora?",
+    "ja": "これらの間違いをほどくためのキャッシュが足りません。今すぐ購入しますか？"
+  },
+  "_msg.unpick_confirm.title": {
+    "en": "Unpick {count} mistakes?",
+    "fr": "Défaire {count} erreurs ?",
+    "de": "{count} Fehler auftrennen?",
+    "es": "¿Deshacer {count} errores?",
+    "ja": "{count}個の間違いをほどしますか？"
+  },
+  "_msg.unpick_confirm.body": {
+    "en": "Would you like to use {price} cash to instantly unpick these mistakes?",
+    "fr": "Voulez-vous utiliser {price} cash pour défaire instantanément ces erreurs ?",
+    "de": "Möchtest du {price} Cash verwenden, um diese Fehler sofort aufzutrennen?",
+    "es": "¿Quieres usar {price} dinero para deshacer estos errores al instante?",
+    "ja": "{price}キャッシュを使ってこれらの間違いをすぐにほどしますか？"
+  },
+  "_msg.prevent_not_enough_cash.title": {
+    "en": "Not enough cash!",
+    "fr": "Pas assez de cash !",
+    "de": "Nicht genug Cash!",
+    "es": "¡No tienes suficiente dinero!",
+    "ja": "キャッシュが足りません！"
+  },
+  "_msg.prevent_not_enough_cash.body": {
+    "en": "You do not have enough cash to prevent mistakes with this thread. Would you like to buy more cash now?",
+    "fr": "Vous n’avez pas assez de cash pour éviter les erreurs avec ce fil. Voulez-vous acheter plus de cash ?",
+    "de": "Du hast nicht genug Cash, um Fehler mit diesem Faden zu verhindern. Möchtest du jetzt mehr Cash kaufen?",
+    "es": "No tienes suficiente dinero para evitar errores con este hilo. ¿Quieres comprar más ahora?",
+    "ja": "この色の糸で間違いを防ぐためのキャッシュが足りません。今すぐ購入しますか？"
+  },
+  "_msg.already_protected.body": {
+    "en": "You have already paid to prevent mistakes with this color thread. Select a different color thread, and try again.",
+    "fr": "Vous avez déjà payé pour éviter les erreurs avec cette couleur de fil. Sélectionnez une autre couleur et réessayez.",
+    "de": "Du hast bereits bezahlt, um Fehler mit dieser Fadenfarbe zu verhindern. Wähle eine andere Farbe und versuche es erneut.",
+    "es": "Ya has pagado para evitar errores con este color de hilo. Selecciona otro color e inténtalo de nuevo.",
+    "ja": "この色の糸で間違いを防ぐための支払いはすでに行われています。別の色を選んで再度お試しください。"
+  },
+  "_msg.prevent_confirm.title": {
+    "en": "Prevent mistakes with this thread?",
+    "fr": "Éviter les erreurs avec ce fil ?",
+    "de": "Fehler mit diesem Faden verhindern?",
+    "es": "¿Evitar errores con este hilo?",
+    "ja": "この色の糸で間違いを防ぎますか？"
+  },
+  "_msg.prevent_confirm.body": {
+    "en": "Would you like to use {price} cash to prevent mistakes with this color thread?",
+    "fr": "Voulez-vous utiliser {price} cash pour éviter les erreurs avec cette couleur de fil ?",
+    "de": "Möchtest du {price} Cash verwenden, um Fehler mit dieser Fadenfarbe zu verhindern?",
+    "es": "¿Quieres usar {price} dinero para evitar errores con este color de hilo?",
+    "ja": "{price}キャッシュを使ってこの色の糸で間違いを防ぎますか？"
+  },
+  "_msg.prevent_error.unpicker_selected": {
+    "en": "Please deselect the unpicker, and choose a thread to prevent mistakes with.",
+    "fr": "Veuillez désélectionner le dé-piqueur et choisir un fil pour éviter les erreurs.",
+    "de": "Bitte wähle zuerst den Auftrenner ab und dann einen Faden, um Fehler zu verhindern.",
+    "es": "Por favor, deselecciona el descosedor y elige un hilo para evitar errores.",
+    "ja": "リッパーを解除して、間違い防止を行う糸を選んでください。"
+  },
+  "_msg.checking_internet": {
+    "en": "Please wait while we attempt to connect to our servers...",
+    "fr": "Veuillez patienter pendant que nous tentons de nous connecter à nos serveurs...",
+    "de": "Bitte warten Sie, während wir versuchen, eine Verbindung zu unseren Servern herzustellen...",
+    "es": "Por favor espera mientras intentamos conectarnos a nuestros servidores...",
+    "ja": "サーバーへ接続を試みています。しばらくお待ちください…"
+  },
+  "CGameTopBar.menu": {
+    "en": "Menu",
+    "fr": "Menu",
+    "de": "Menü",
+    "es": "Menú",
+    "ja": "メニュー"
+  },
+  "CGameTopBar.open_pattern": {
+    "en": "Open Pattern",
+    "fr": "Ouvrir un modèle",
+    "de": "Muster öffnen",
+    "es": "Abrir patrón",
+    "ja": "パターンを開く"
+  },
+  "CGameTopBar.get_new_patterns": {
+    "en": "Get New Patterns",
+    "fr": "Nouveaux modèles",
+    "de": "Neue Muster holen",
+    "es": "Nuevos patrones",
+    "ja": "新しいパターンを入手"
+  },
+  "CGameTopBar.buy_cash": {
+    "en": "Buy more Cash",
+    "fr": "Acheter du Cash",
+    "de": "Mehr Cash kaufen",
+    "es": "Comprar más Cash",
+    "ja": "キャッシュを購入"
+  },
+  "CGameTopBar.create_pattern": {
+    "en": "Create Pattern",
+    "fr": "Créer un modèle",
+    "de": "Muster erstellen",
+    "es": "Crear patrón",
+    "ja": "パターン作成"
+  },
+  "CGameTopBar.save_work": {
+    "en": "Save my Work",
+    "fr": "Sauvegarder",
+    "de": "Arbeit speichern",
+    "es": "Guardar mi trabajo",
+    "ja": "作業を保存"
+  },
+  "CGameTopBar.pause_clock": {
+    "en": "Pause the Clock",
+    "fr": "Pause horloge",
+    "de": "Uhr anhalten",
+    "es": "Pausar el reloj",
+    "ja": "時計を一時停止"
+  },
+  "CGameTopBar.unpause_clock": {
+    "en": "Un-pause the Clock",
+    "fr": "Relancer l’horloge",
+    "de": "Uhr fortsetzen",
+    "es": "Reanudar el reloj",
+    "ja": "時計を再開"
+  },
+  "CGameTopBar.thread_protect": {
+    "en": "Thread-Protect",
+    "fr": "Anti-erreur couleur",
+    "de": "Fehlerschutz (Farbe)",
+    "es": "Protección de errores",
+    "ja": "色エラー防止"
+  },
+  "CGameTopBar.auto_unpick": {
+    "en": "Auto-Unpick Errors",
+    "fr": "Corriger erreurs auto",
+    "de": "Fehler automatisch lösen",
+    "es": "Deshacer errores auto",
+    "ja": "誤りを自動解除"
+  },
+  "CGameTopBar.reset_pattern": {
+    "en": "Reset Pattern",
+    "fr": "Réinitialiser le modèle",
+    "de": "Muster zurücksetzen",
+    "es": "Reiniciar patrón",
+    "ja": "パターンをリセット"
+  },
+  "CGameTopBar.fullscreen": {
+    "en": "Play in Fullscreen",
+    "fr": "Plein écran",
+    "de": "Vollbildmodus",
+    "es": "Pantalla completa",
+    "ja": "フルスクリーンで表示"
+  },
+  "CGameTopBar.exit_fullscreen": {
+    "en": "Leave fullscreen",
+    "fr": "Quitter plein écran",
+    "de": "Vollbild verlassen",
+    "es": "Salir de pantalla completa",
+    "ja": "フルスクリーン終了"
+  },
+  "CGameTopBar.options": {
+    "en": "Game Options",
+    "fr": "Options du jeu",
+    "de": "Spieleinstellungen",
+    "es": "Opciones del juego",
+    "ja": "ゲーム設定"
+  },
+  "CGameTopBar.share_image": {
+    "en": "Share Image",
+    "fr": "Partager l’image",
+    "de": "Bild teilen",
+    "es": "Compartir imagen",
+    "ja": "画像を共有"
+  },
+  "CGameTopBar.view_gallery": {
+    "en": "View Gallery",
+    "fr": "Voir la galerie",
+    "de": "Galerie anzeigen",
+    "es": "Ver galería",
+    "ja": "ギャラリーを見る"
+  },
+  "CGameTopBar.view_messages": {
+    "en": "View Messages",
+    "fr": "Voir les messages",
+    "de": "Nachrichten ansehen",
+    "es": "Ver mensajes",
+    "ja": "メッセージを見る"
+  },
+  "CGameTopBar.view_profile": {
+    "en": "View my Profile",
+    "fr": "Voir mon profil",
+    "de": "Mein Profil ansehen",
+    "es": "Ver mi perfil",
+    "ja": "プロフィールを見る"
+  },
+  "CGameTopBar.send_pattern": {
+    "en": "Send to Friends",
+    "fr": "Envoyer à des amis",
+    "de": "An Freunde senden",
+    "es": "Enviar a amigos",
+    "ja": "友達に送る"
+  },
+  "CGameTopBar.friend_activity": {
+    "en": "Friend Activity",
+    "fr": "Activité des amis",
+    "de": "Freunde-Aktivität",
+    "es": "Actividad de amigos",
+    "ja": "友達の活動"
+  },
+  "CGameTopBar.loyalty_card": {
+    "en": "Loyalty Card",
+    "fr": "Carte fidélité",
+    "de": "Treuekarte",
+    "es": "Tarjeta de fidelidad",
+    "ja": "ロイヤルティカード"
+  },
+  "CGameTopBar.game_club": {
+    "en": "Game Club",
+    "fr": "Game Club",
+    "de": "Game Club",
+    "es": "Game Club",
+    "ja": "ゲームクラブ"
+  },
+  "CGameTopBar.language": {
+    "en": "Language",
+    "fr": "Langue",
+    "de": "Sprache",
+    "es": "Idioma",
+    "ja": "言語"
+  },
+  "CGameTopBar.help_support": {
+    "en": "Help & Support",
+    "fr": "Aide & support",
+    "de": "Hilfe & Support",
+    "es": "Ayuda y soporte",
+    "ja": "ヘルプ＆サポート"
+  },
+  "CGameTopBar.contact_us": {
+    "en": "Contact Us",
+    "fr": "Nous contacter",
+    "de": "Kontakt",
+    "es": "Contáctanos",
+    "ja": "お問い合わせ"
+  }
+}
